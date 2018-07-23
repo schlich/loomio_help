@@ -1,0 +1,12 @@
+<aside id="sidedrawer" class="mui--no-user-select">
+  <!-- Side drawer content goes here -->
+  <div id="sidedrawer-brand" class="mui--appbar-line-height">
+    <span class="mui--text-title">Brand.io</span>
+  </div>
+  <div class="mui-divider"></div>
+  <ul>
+    {{ range .Site.Menus.main }}
+      {{- partial "sidenav/item.html" . -}}
+    {{ end }}
+  </ul>
+</aside>

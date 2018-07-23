@@ -1,0 +1,13 @@
+<li>
+  <a href="{{ .URL }}">
+    {{ .Pre }}
+    <strong>{{ .Name }}</strong>
+  </a>
+  {{ if .HasChildren }}
+  <ul>
+    {{ range .Children }}
+      {{- partial "sidenav/child.html" . -}}
+    {{ end }}
+  </ul>
+  {{ end }}
+</li>
