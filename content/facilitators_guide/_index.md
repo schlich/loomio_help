@@ -5,6 +5,7 @@ description: |
   Loomio is made by facilitators, and that plays a huge role in how it has been designed. This guide is about revealing more of that context, and translating facilitation concepts from the offline space to the online space.
 menu:
   main:
+    identifier: facilitators_guide
     weight: 20
 ---
 

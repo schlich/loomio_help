@@ -2,6 +2,9 @@
 title: Commencing
 weight: 20
 description: Invitation, Arrival, Who’s in the Room, Who’s NOT in the Room, Culture, Protocol, Expectations.
+menu:
+  main:
+    parent: facilitators_guide
 ---
 
 You're reading Phase 2 of the [5 Phases of Facilitation in Loomio](../). In this phase we'll cover:

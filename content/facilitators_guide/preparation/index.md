@@ -2,6 +2,9 @@
 title: Preparation
 weight: 10
 description: Understand Purpose, Rearrange the Furniture, Supplies, Tools, Materials, Design the Experience, Contextualise the Moment, The Role of the Facilitator.
+menu:
+  main:
+    parent: facilitators_guide
 ---
 
 You're reading Phase 1 of the [5 Phases of Facilitation in Loomio](../). In this phase we'll cover:

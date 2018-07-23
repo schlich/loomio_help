@@ -2,6 +2,9 @@
 title: Concluding
 weight: 40
 description: Outcomes & Next Steps, Reporting & Harvesting, Turning Discussion into Action, It Ain’t Over Til It’s Over
+menu:
+  main:
+    parent: facilitators_guide
 ---
 
 You're reading Phase 4 of the [5 Phases of Facilitation in Loomio](../). In this phase we'll cover:

@@ -2,7 +2,9 @@
 title: Underway
 weight: 30
 description: Where are we on the Map, The Art of Noticing, Hearing Diverse Voices, Counter Cognitive Bias, Balancing Divergent / Convergent, Working with Scope, Pacing and Timing, Managing the Attention Economy, Facilitation Interventions.
-
+menu:
+  main:
+    parent: facilitators_guide
 ---
 
 You're reading Phase 3 of the [5 Phases of Facilitation in Loomio](../). In this phase we'll cover:

@@ -2,6 +2,9 @@
 title: Ongoing Practice
 weight: 50
 description: Continuous Improvement, Distributed Facilitation / Self-facilitation, The Art of Being Facilitated, Culture Change.
+menu:
+  main:
+    parent: facilitators_guide
 ---
 
 You're reading Phase 5 of the [5 Phases of Facilitation in Loomio](../). In this phase we'll cover:
