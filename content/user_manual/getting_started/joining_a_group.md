@@ -11,15 +11,15 @@ Someone has invited you to join a Loomio group! Here are the essential things yo
 
 If you're not sure what Loomio is, check out ["What is Loomio?"](overview.md).
 
-## Have a look around
+# Have a look around
 Give yourself a tour by clicking around the app. Down the left is your *sidebar*, which gives you links to your groups, discussions, and decisions.
 
-## Add your profile photo
+# Add your profile photo
 Reading text on a screen can be a bit impersonal. Make things friendlier by adding a profile photo to give a face to your name. (If you're not comfortable showing your face, pick any image to represent you.)
 
 To change your profile picture, click *"edit profile"* on the sidebar.
 
-## Configure your email settings
+# Configure your email settings
 
 Email notifications are the main way Loomio keeps you updated on what's happening in your group.
 
@@ -32,16 +32,16 @@ Visit the [email settings](https://www.loomio.org/email_preferences) to configur
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OUF4p1JNalY" frameborder="0" allowfullscreen></iframe>
 
 
-## Is anyone missing?
+# Is anyone missing?
 
 Check the members list on your Loomio group page. Are people missing? Click “invite people” to add them. Give them a phone call or an email to make sure they got their invitation.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xwE0IM1k64E" frameborder="0" allowfullscreen></iframe>
 
-## Say “Hello”
+# Say “Hello”
 Every Loomio group starts off with an Introductions thread. This is a place where you can say hello. Share why you've joined the group, and tell people something about yourself so they can understand you a bit better.
 
-## This is *your* group
+# This is *your* group
 Discussions and Proposals are invitations to use your voice. It's ok to change your mind. It's ok to be unsure. Your perspective is valued — that's why you've been invited to the group!
 
 Loomio is about participation, so find your unique way to contribute to ongoing threads. And when you feel comfortable, think about starting discussions and proposals of your own.

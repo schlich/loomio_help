@@ -3,7 +3,10 @@
   <header>
     <h1>{{ .Title }}</h1>
   </header>
-  {{.TableOfContents}}
+  <aside class="toc mui-panel">
+    <div class="mui--divider-bottom">On this page</div>
+    {{.TableOfContents}}
+  </aside>
   {{.Content}}
 </article>
 {{ end }}

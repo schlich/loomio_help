@@ -39,8 +39,10 @@
     <script src="/js/jquery-2.1.4.min.js"></script>
 
     <script src="{{ "/js/sidedrawer.js" | relURL }}"></script>
-    <link href="{{ "/css/styles.css" | relURL }}" rel="stylesheet" type="text/css">
     <link href="{{ "/css/sidedrawer.css" | relURL }}" rel="stylesheet" type="text/css">
+
+    {{ $style := resources.Get "styles.scss" | toCSS | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $style.Permalink }}">
   </head>
   <body>
     {{- partial "sidenav/main.html" . -}}

@@ -19,7 +19,7 @@ Emails we send out include:
 
 For any _thread_ specific email (that's most things except the "Missed Yesterday" email) you can reply directly from your email and your replies will be posted in the Loomio thread.
 
-## User email settings
+# User email settings
 
 There are three settings that apply to every group you belong to.
 
@@ -29,7 +29,7 @@ There are three settings that apply to every group you belong to.
 * **Subscribe on participation**: Enabling this setting means when you participate in a thread, all further activity will be emailed to you immediately.
 * **Mentions**: Enabling this setting means when someone wants to get your attention, they can @mention your name in a comment, which will notify you. We recommend you leave this setting on, so you'll get an email when this happens.
 
-## Group email settings
+# Group email settings
 
 You can configure what notification emails you get for each group you belong to.
 
@@ -45,14 +45,14 @@ You can also apply a particular setting to all of your groups by checking *Apply
 
 ![Group email settings](group_email_settings.png)
 
-### Changing the default setting for new groups you join
+## Changing the default for new groups you join
 You can ensure that any new groups you join have the settings you prefer.
 
 <video width="600" height="400" playsinline muted loop controls>
 <source src="set_default_group_email_settings.mp4" type="video/mp4">
 </video>
 
-## Thread email settings
+# Thread email settings
 
 The email settings for a thread are similar to those for a group. A thread will use the email settings for a group unless you change it for that thread.
 
@@ -61,7 +61,7 @@ Note that the _subscribe on participation_ setting affects your thread email set
 ![thread email settings](thread_email_settings.png)
 
 
-## Turn off all email notifications
+# Turn off all email notifications
 
 To turn off all email notifications visit https://www.loomio.org/email_preferences/
 

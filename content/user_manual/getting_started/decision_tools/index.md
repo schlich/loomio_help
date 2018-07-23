@@ -21,7 +21,7 @@ It's up to each group to decide how to interpret the results. For instance, [her
 
 Loomio provides a range of tools to support your group decision-making. You can start using them right away by visiting the [New Decision page](https://www.loomio.org/p/new/).
 
-## All Loomio decisions follow a common pattern
+# All Loomio decisions follow a common pattern
 
 1. Author sets up the decision with title, details and options
 2. People participate
@@ -30,7 +30,7 @@ Loomio provides a range of tools to support your group decision-making. You can 
 5. The poll closes, and everyone is informed of the results
 6. The author sets an outcome, notifying everyone of what will happen next
 
-## Time poll
+# Time poll
 
 _Find a time to meet_
 
@@ -44,7 +44,7 @@ So that you can arrange calls with people in other parts of the world, Loomio ad
 
 If the times don't work, participants can suggest alternatives using the message field. You can then update the poll with new times.
 
-## Check
+# Check
 
 _Request or track participation_
 
@@ -63,7 +63,7 @@ Examples:
 
 A benefit of Check is that it automatically notifies those people who forget to participate, giving people a little encouragement to get the job done.
 
-## Poll
+# Poll
 
 _Measure popularity or offer a choice_
 
@@ -80,7 +80,7 @@ Examples:
 * What size t-shirt would you like?
 * If we ran a workshop, how likely are you to attend?
 
-## Dot vote
+# Dot vote
 
 _Prioritise options together_
 
@@ -94,7 +94,7 @@ Examples:
 
 See [dotmocracy.org](http://dotmocracy.org/) for more tips and resources about this voting method.
 
-## Ranked choice
+# Ranked choice
 
 _Rank options in the order of preference._
 
@@ -109,7 +109,7 @@ Examples:
 * What would you like to eat in the company summer party?
 * Who should be our next deputy mayor?
 
-## Proposal
+# Proposal
 
 _Seek collective agreement_
 
@@ -121,39 +121,37 @@ With good participation, a proposal creates support within the group to take act
 
 Participants can agree, abstain, disagree or block - and give a statement to explain their position.
 
-### Proposals surface issues early
-
 Don't hesitate to start a proposal just because you're not sure everyone will agree - proposals are not only for when you have consensus, they're designed to surface issues that need resolving and are useful for clarifying disagreements.
 
 You may be surprised by getting quick consensus on something you thought was going to be complicated.
 
-### Ways of using proposals
+# Ways of using proposals
 
-#### Uncover the controversy
+## Uncover the controversy
 
 _E.g. Let's put a bike stand next to the front desk_
 
 If there are two or more competing ideas, propose supporting one. Controversial topics might require a series of proposals to build shared understanding.
 
-#### Series of small Yes's
+## Series of small Yes's
 
 _E.g. We host the conference; dates and venue to be confirmed later_
 
 Break down a complex issue into smaller parts and agree on them piece by piece.
 
-#### Polarising Minority
+## Polarising Minority
 
 _E.g. Share our pay rates publicly_
 
 Sometimes loud voices can seem like they are representing more of the group than they really are. Raise a proposal to put their views in perspective.
 
-#### Temperature Check
+## Temperature Check
 
 _E.g. Temperature Check: we should change the privacy policy_
 
 A temperature check is a way to test how the group feels without concluding a fully realised proposal. Use it when you want to survey opinions, or test a hunch, rather than advocate for a particular position.
 
-### Writing proposals
+# Writing proposals
 
 Include enough details so everyone knows what it means to agree or disagree.
 
@@ -161,19 +159,19 @@ Avoid combining a range of ideas in one proposal, because people might agree to 
 
 When making a proposal, state your expectations and describe the impact the proposal will have if adopted. If it's a formal or binding proposal it's often worth describing what a 'disagree' or 'block' means.
 
-### On disagreement
+## On disagreement
 
 'Disagree' and 'block' are often controversial positions to take. We encourage you to see them as opportunities to understand where communication has been inadequate, points of view are under-represented, or as a source of valuable insight.
 
 If things feel tense on a personal level, we recommend that you talk one on one with the person to hear their concerns.
 
-### Closing time
+## Closing time
 
 Consider how the proposal closing time will affect engagement from your group members, and choose accordingly. You might want to time the proposal so it closes before a meeting, or avoid closing over a weekend.
 
 You can extend the deadline of an open proposal. This can be a good idea if engagement is active and people are working through the issue, or if engagement has been sparse and you'd like to prompt more participation before concluding.
 
-### Setting an outcome
+## Setting an outcome
 
 When your proposal closes, you’ll be prompted to set a proposal outcome.
 

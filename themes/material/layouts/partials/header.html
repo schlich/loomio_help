@@ -3,12 +3,14 @@
     <div class="mui-container-fluid">
       <a class="sidedrawer-toggle mui--visible-xs-inline-block mui--visible-sm-inline-block js-show-sidedrawer">☰</a>
       <a class="sidedrawer-toggle mui--hidden-xs mui--hidden-sm js-hide-sidedrawer">☰</a>
-      <span class="mui--text-title mui--visible-xs-inline-block">Brand.io</span>
+      <span class="mui--text-title mui--visible-xs-inline-block">{{.Site.Title}}</span>
 
-      <a class="appbar-brand" href="/docs/v1/example-layouts">User's Manual</a>
-      hello
-      <i class="icon-keyboard-arrow-right mui-hidden-xs"></i>
-      <a class="appbar-brand mui-hidden-xs" href="/docs/v1/example-layouts/blog">Blog</a>
+      {{ if .Parent }}
+      <a class="appbar-brand mui-hidden-xs lmo-header-title" href="{{.Parent.URL}}">{{.Parent.Title}}</a>
+      <i class="icon-keyboard-arrow-right mui-hidden-xs">&gt;</i>
+      {{ end }}
+
+      <a class="appbar-brand mui-hidden-xs lmo-header-title" href="{{.URL}}">{{.Title}}</a>
     </div>
   </nav>
 </header>
