@@ -182,3 +182,10 @@ To keep the list of discussions on your group page relevant, you can close threa
 You can list all the closed threads. Just click the "x Closed" label at the top of the threads list on your group page.
 
 ![](closed_threads_button.png)
+
+# FAQ
+
+## How can I send a message to everyone in my group?
+If you have an important message, and you want to ensure that everyone in your group to receive it, start a discussion and invite everyone into it.
+![](start_important_thread_modal.png)
+![](invite_to_thread_modal.png)
