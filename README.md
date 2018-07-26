@@ -14,6 +14,7 @@ brew install hugo
 
 fetch the node modules (from project root)
 ```
+cd themes/material
 yarn
 ```
 

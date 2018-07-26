@@ -1,5 +1,5 @@
 .DS_Store
 public
 resources/_gen
-node_modules/
+themes/material/node_modules
 themes/material/static/bundle.js
