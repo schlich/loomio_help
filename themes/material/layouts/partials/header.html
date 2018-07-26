@@ -6,11 +6,11 @@
       <span class="mui--text-title mui--visible-xs-inline-block">{{.Site.Title}}</span>
 
       {{ if .Parent }}
-      <a class="appbar-brand mui-hidden-xs lmo-header-title" href="{{.Parent.URL}}">{{.Parent.Title}}</a>
-      <i class="icon-keyboard-arrow-right mui-hidden-xs">&gt;</i>
+      <a class="appbar-brand mui--hidden-sm mui--text-title" href="{{.Parent.URL}}">{{.Parent.Title}}</a>
+      <i class="icon-keyboard-arrow-right mui--hidden-sm">&gt;</i>
       {{ end }}
 
-      <a class="appbar-brand mui-hidden-xs lmo-header-title" href="{{.URL}}">{{.Title}}</a>
+      <a class="appbar-brand mui--hidden-sm mui--text-title" href="{{.URL}}">{{.Title}}</a>
     </div>
   </nav>
 </header>

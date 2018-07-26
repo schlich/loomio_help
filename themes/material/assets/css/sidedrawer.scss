@@ -1,6 +1,15 @@
-/**
- * Side drawer CSS
- */
+#sidedrawer {
+   position: fixed;
+   top: 0;
+   bottom: 0;
+   width: 200px;
+   left: -200px;
+   overflow: auto;
+   z-index: 2;
+   background-color: #fff;
+   transition: transform 0.2s;
+ }
+
 #sidedrawer-brand {
   padding-left: 20px;
 }
@@ -10,24 +19,49 @@
   padding-left: 1em;
 }
 
-#sidedrawer > ul {
+#sidenav > ul {
   padding-left: 0px;
+  @include mui-text("menu");
 }
 
-#sidedrawer > ul > li:first-child {
+#sidenav > ul > li:first-child {
   padding-top: 15px;
 }
 
-#sidedrawer strong {
+#sidenav strong {
   display: block;
   padding: 15px 22px;
   cursor: pointer;
 }
 
-#sidedrawer strong:hover {
+#sidenav strong:hover {
   background-color: #E0E0E0;
 }
 
-#sidedrawer strong + ul > li {
+#sidenav strong + ul > li {
   padding: 6px 0px;
+}
+
+/**
+ * Toggle Side drawer
+ */
+#sidedrawer.active {
+  transform: translate(200px);
+}
+
+
+/**
+ * Header CSS
+ */
+.sidedrawer-toggle {
+  color: #fff;
+  cursor: pointer;
+  font-size: 20px;
+  line-height: 20px;
+  margin-right: 10px;
+}
+
+.sidedrawer-toggle:hover {
+  color: #fff;
+  text-decoration: none;
 }

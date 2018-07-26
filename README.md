@@ -22,7 +22,7 @@ yarn
 
 Run hugo
 ```
-hugo serve
+hugo serve --disableFastRender
 ```
 
 and run webpack

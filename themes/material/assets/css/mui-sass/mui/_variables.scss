@@ -41,13 +41,13 @@ $mui-body-bg-color:              mui-color('white') !default;
 
 $mui-base-font-family:           Roboto, Arial, Verdana, Tahoma !default;
 $mui-base-font-color:            mui-color('black-alpha-87') !default;
-$mui-base-font-size:             mui-rem(18px) !default;
+$mui-base-font-size:             mui-rem(16px) !default;
 $mui-base-font-weight:           400 !default;
 $mui-base-line-height:           1.429 !default;
 $mui-base-font-smoothing:        false !default;
 
 $mui-link-font-color:            $mui-accent-color !default;
-$mui-link-text-decoration:       underline !default;
+$mui-link-text-decoration:       none !default;
 $mui-link-font-color-hover:      $mui-accent-color-dark !default;
 $mui-link-text-decoration-hover: underline !default;
 
@@ -224,17 +224,11 @@ $mui-panel-bg-color:             mui-color('white') !default;
 $mui-panel-padding:              15px !default;
 $mui-panel-border-radius:        0 !default;
 
-
-
-
 // ============================================================================
 // DIVIDERS
 // ============================================================================
 
 $mui-divider-color:              mui-color('black-alpha-12') !default;
-
-
-
 
 // ============================================================================
 // DROPDOWNS
@@ -252,9 +246,6 @@ $mui-dropdown-link-font-color-disabled: mui-color('grey', '200') !default;
 $mui-dropdown-link-bg-color-hover:      mui-color('grey', '200') !default;
 $mui-dropdown-link-bg-color-active:     mui-color('white') !default;
 
-
-
-
 // ============================================================================
 // APPBAR
 // ============================================================================
@@ -264,7 +255,7 @@ $mui-appbar-height-xs-portrait:  mui-rem(56px) !default;
 $mui-appbar-height-xs-landscape: mui-rem(48px) !default;
 
 $mui-appbar-bg-color:            $mui-primary-color !default;
-$mui-appbar-font-color:          mui-color('white') !default;
+$mui-appbar-font-color:          mui-color('black') !default;
 
 
 
