@@ -9,7 +9,7 @@ Loomio is an online tool used by thousands of groups around the world to increas
 
 ![Drawing of people using Loomio](loomio-new-way.png)
 
-This help resource is **under construction**. If can't find an answer to a question you have, please [ask us](https://www.loomio.org/contact).
+This help resource is improving rapidly. If can't find an answer to a question you have, please [ask us](https://www.loomio.org/contact).
 
 [Here's the roadmap](/roadmap). If you'd like to contribute, please get in touch
 
