@@ -5,9 +5,24 @@
       <span class="mui--text-title">{{.Site.Title}}</span>
     </div>
     <div class="mui-divider"></div>
-    <ul>
+    <ul class="sidenav--level-1">
+      {{ $currentPage := . }}
       {{ range .Site.Menus.main }}
-        {{- partial "sidenav/item.html" . -}}
+        <li>
+          <a href="{{ .URL }}">
+            {{ .Pre }}
+            <strong>{{ .Name }}</strong>
+          </a>
+          {{ if hasPrefix $currentPage.URL .URL }}
+            {{ if .HasChildren }}
+              <ul>
+                {{ range .Children }}
+                  {{- partial "sidenav/child.html" . -}}
+                {{ end }}
+              </ul>
+            {{ end }}
+          {{ end }}
+        </li>
       {{ end }}
     </ul>
   </nav>

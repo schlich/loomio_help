@@ -14,14 +14,30 @@
   padding-left: 20px;
 }
 
-#sidedrawer ul {
+#sidenav strong+ul>li {
+  padding: 1em;
+}
+
+.sidenav--child {
+  padding: .4em 0;
+}
+
+#sidenav ul {
   list-style: none;
-  padding-left: 1em;
+  padding: .5em 0;
+  @include mui-text("menu");
 }
 
 #sidenav > ul {
-  padding-left: 0px;
-  @include mui-text("menu");
+  padding-left: 0;
+}
+
+#sidenav > ul > li > ul {
+  padding-left: 2em;
+}
+
+#sidenav > ul > li > ul > li > ul{
+  padding-left: 2em;
 }
 
 #sidenav > ul > li:first-child {
