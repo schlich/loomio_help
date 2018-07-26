@@ -3,3 +3,4 @@ public
 resources/_gen
 themes/material/node_modules
 themes/material/static/bundle.js
+yarn-error.log
