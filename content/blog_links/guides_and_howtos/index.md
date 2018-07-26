@@ -1,5 +1,8 @@
 ---
 title: Guides & How to's
+menu:
+  main:
+    parent: from_our_blog
 ---
 
 * [10 tips for making great decisions with Loomio](https://blog.loomio.org/2015/09/10/10-tips-for-making-great-decisions-with-loomio/)

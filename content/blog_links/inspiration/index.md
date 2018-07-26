@@ -1,5 +1,8 @@
 ---
 title: Inspiration
+menu:
+  main:
+    parent: from_our_blog
 ---
 
 Podcasts, videos, and articles from the cutting edge of non-hierarchical organising and decentralised leadership.
