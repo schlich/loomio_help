@@ -6,21 +6,12 @@ menu:
   main:
     parent: facilitators_guide
 ---
+![](cover.jpg)
 
-You're reading Phase 1 of the [5 Phases of Facilitation in Loomio](../). In this phase we'll cover:
+{{%expert_advice "../silvia_200.png"%}}
+  > For every minute of time with the group, consider spending 3 minutes planning. That means spending three hours preparing for a one hour session. Only as you improve should you spend less time planning. — Silvia Zuur
+{{%/expert_advice%}}
 
-* Understand Purpose
-* Rearrange the Furniture
-* Supplies, Tools, Materials
-* Design the Experience
-* Contextualise the Moment
-* The Role of the Facilitator
-
-<img src="cover.jpg">
-
-<img src="../silvia_200.png" class="img-right img-100px"/>
-
-> For every minute of time with the group, consider spending 3 minutes planning. That means spending three hours preparing for a one hour session. Only as you improve should you spend less time planning. — Silvia Zuur
 
 ## Understand Purpose
 
@@ -28,7 +19,7 @@ Clarification of purpose is one of the highest value offerings of a skilled faci
 
 > Always refer back to your purpose-finding questions to check that you’re covering off what the participants want to learn or achieve. — Silvia Zuur
 
-### On Loomio
+On Loomio
 
 * The app offers space for explication of purpose, such as the [group description](https://loomio.gitbooks.io/manual/content/en/group_settings.html) and [discussion context](https://loomio.gitbooks.io/manual/content/en/discussion_threads.html) fields.
 * A Loomio discussion *about* purpose is a great place to start with your group, if it's not already clear.
@@ -42,7 +33,7 @@ Desiging the space you invite people into greatly influences their experience. E
 
 In offline spaces, literally rearranging the furniture is a habit that helps facilitators get into the right zone to hold space, and prompts them to think about what’s unique in that session. Imagine the difference between everyone seated in rows versus everyone in a circle.
 
-### On Loomio
+On Loomio
 
 * Inviting people into a new digital space specifically for decision-making is powerful — there’s a “threshold crossing” experience making it as distinct from other online spaces (which might be for socialising or other functions).
 * [Customising your group photo](https://loomio.gitbooks.io/manual/content/en/coordinating_your_group.html) is a prime opportunity to craft the feeling of the space.
@@ -53,7 +44,7 @@ In offline spaces, literally rearranging the furniture is a habit that helps fac
 
 When facilitation is running smoothly, all the supplies a group needs are right at hand. In offline spaces, this stuff like post-its, pens, paper, name tags, printouts, and background material. Every step a facilitator takes to be well-prepared in this way allows more time and energy for the work.
 
-### On Loomio
+On Loomio
 
 * Many groups use the group description to link out to a shared drive of collaborative documents, background information, the group's project management or task tracking system, a list of contacts, etc.
 * Each thread deserves consideration of what people might need to engage with it — putting all the information right at hand is essential (for example, if you reference something, linking directly to it is much more effective than expecting people to search for it).
@@ -66,12 +57,12 @@ Once they have the basic pieces in place (purpose, tools, background info), good
 Time and time again we have seen people drastically underestimate the need for prep and design. Stop and think about the experience you want to hose, before jumping straight in. Investment in design is paid back many times over by success later.
 
 
-### On Loomio
+On Loomio
 
 * Loomio’s most basic functionality follows the structure of good facilitation by design: invite people, discuss a topic, gather divergent input, converge into a specific proposal, test for agreement, confirm outcome.
 
 
-<a href="collaboration-process.png" alt="Collaboration process diagram"><img src="collaboration-process.png" class="img-center img-50pc"/></a>
+![](../collaboration-process.png)
 
 * Skilled users are already adapting Loomio for various experience designs — such as a multi-step consultation processes, signing off documents, etc. Each job, when facilitated effectively, takes a certain repeatable shape.
 * Online collaboration design doesn't have to reinvent the wheel. Trust what you know works, and translate it. Many tried and tested offline processes can be adapted to the online space (ex: the [Advice Process](http://blog.loomio.org/2016/11/09/advice-process/)).
@@ -90,7 +81,7 @@ Key Context Questions:
 * Is this one of many concurrent processes, or a singular focus?
 * Are we here to solve a problem, or go deeper, wider, narrower?
 
-### On Loomio
+On Loomio
 
 * Loomio groups nearly always have a “champion”, who understands the group’s context and makes the call about whether introducing Loomio is right for them.
 * It's not wise to try to change everything at once. Any time Loomio fits nicely into existing workflows, groups will adopt it better.
@@ -120,12 +111,9 @@ Facilitators do their best work when they can adapt effectively to the emergent 
 > Wear and un-wear the facilitation-hat. A challenge many people face is trying to facilitate meetings and workshops with their own team. As a facilitator, they need to be neutral. But as a team member, they have valuable insights to share. Make it really clear when you’re a facilitator and when you’re being a participant. — Silvia Zuur
 
 
-### On Loomio
+On Loomio
 
 * Many groups using Loomio are experienced with facilitation and already have a shared understanding of the role. They already adapt the tool to meet these needs with some success.
 * Often the person who starts a discussion is assumed to be facilitating it, barring another agreed understanding in the group. Clarity about who is facilitating can greatly enhance mutual safety and success.
 * Loomio naturally creates a dynamic open to distributed acts of facilitation, such as users tagging in others, requests to stay on topic, suggestions of the right timing for a proposal, etc — but this often left implicit. Explicitly naming what acts of facilitation are and discussing whether this role is centralised or distributed can clarify the role.
 * Implicit distributed facilitation can be the default starting place for an online group (ie, no discussion of facilitation as a named role), but that setup is actually best for advanced groups prgressing past working with explicit facilitation.
-
-
-> Move on to [Phase 2](../commencing) of the [5 Phases of Facilitation in Loomio](../).

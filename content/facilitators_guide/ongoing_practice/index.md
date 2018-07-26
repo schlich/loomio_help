@@ -7,15 +7,7 @@ menu:
     parent: facilitators_guide
 ---
 
-You're reading Phase 5 of the [5 Phases of Facilitation in Loomio](../). In this phase we'll cover:
-
-* Continuous Improvement
-* Distributed Facilitation / Self-facilitation
-* The Art of Being Facilitated
-* Culture Change
-
-<img src="img/practicing_1200.jpg">
-
+![](cover.jpg)
 
 ## Continuous Improvement
 
@@ -23,7 +15,7 @@ No matter how amazing a group or facilitator is, they can always improve. If the
 
 There are many approaches to continuous improvement, but they all create space for reflection and feedback, and a way to make changes in response. For teams that work together on an ongoing basis, they might employ a methodology like <a href="https://en.wikipedia.org/wiki/Scrum_(software_development)" target="_blank">scrum</a>, including retrospectives and regular process improvements. For a one-off session, a facilitator might simply follow up with a request for feedback.
 
-### On Loomio
+On Loomio
 
 * People use Loomio itself to talk about how they use Loomio. It provides an obvious platform to “talk about the talking”.
 * The process of joining Loomio causes groups to reflect on many aspects of their collaboration and decision-making process, which creates the opportunity to improve.
@@ -41,17 +33,18 @@ People who are less used to taking acts of facilitation can be supported with ed
 * noticing who is and is not participating
 * appreciating contributions explicitly
 
-<img src="img/silvia_200.png" class="img-right img-100px"/>
-
-> You don’t need an agenda to be a facilitator. Facilitating is just about making a group situation easy. Next time you’re at a family gathering, party or morning tea: approach it like a facilitator and make sure everybody in the group feels included and able to participate. — Silvia Zuur
+{{%expert_advice "../silvia_200.png"%}}
+  > You don’t need an agenda to be a facilitator. Facilitating is just about making a group situation easy. Next time you’re at a family gathering, party or morning tea: approach it like a facilitator and make sure everybody in the group feels included and able to participate. — Silvia Zuur
+{{%/expert_advice%}}
 
 Distributed facilitation can work beautifully, but it can also cause people to step all over each other. At first, it’s awkward as people learn the dance. It’s important to differentiate between distributed facilitation (peers helping the collective), “facipulation” (manipulating the group toward your own agenda), and backseat facilitation (taking acts of facilitation when you do not have the mandate).
 
 Consciously decide when peer facilitation is a good choice, and when a specific facilitator is called for. In certain situations, such as a high-conflict discussion where a specified neutral party is needed, or there is a lack of trust, distributed facilitation might not work.
 
-<img src="img/rich_200.png" class="img-right img-100px"/>
+{{%expert_advice "../rich_200.png"%}}
+  > Acts of facilitation are not just for the manager, or the person who called the meeting — they are for everyone. — Richard Bartlett
+{{%/expert_advice%}}
 
-> Acts of facilitation are not just for the manager, or the person who called the meeting — they are for everyone. — Richard Bartlett
 
 ### Translating this into Loomio
 
@@ -59,7 +52,6 @@ Consciously decide when peer facilitation is a good choice, and when a specific 
 * An online discussion is by default a distributed collaboration among peers. Any other setup requires explicit design. This is the opposite of offline spaces where the default is that someone called a meeting and distributing the role requires proactivity.
 * Loomio is designed with a group of equals in mind. In many ways, a distributed facilitation approach is the best fit for the tool.
 * Current Loomio users do peer facilitation all the time, whether they realise that’s what they are doing or not. Simple things like suggesting someone raise a proposal, tagging people, summarising the process so far, etc, are all acts of facilitation.
-
 
 ## The Art of Being Facilitated
 
@@ -69,7 +61,7 @@ On the positive side, skillful receptivity to facilitation is a capacoty that ca
 
 On the negative side, people who can’t or won’t be facilitated can be detrimental to group collaboration. No matter how skilled a facilitator is, if they encounter a certain level of resistance they won’t be able to do their job. Common problems include dominating the discussion, playing devil’s advocate, disrupting the process, disrespecting the facilitator or participants, or being disengaged. At some level individuals must take responsibility for their willingness to be facilitated.
 
-### On Loomio
+On Loomio
 
 * With a little practice, most users quickly upskill on being responsive to acts of facilitation on Loomio, such as replying when @mentioned.
 * Taking acts of facilitation on Loomio helps people become more responsive to facilitation themselves.
@@ -84,7 +76,7 @@ Is the company party participatory? Does the office potluck just happen like mag
 
 Deep culture change is when the culture of collaboration starts to leak out of specific “collaboration” spaces and shows up in every aspect of the organisation. Collaboration is not about post-it notes and check-ins, but the very timbre of organisational life.
 
-### On Loomio
+On Loomio
 
 * The [theory of change of Loomio](http://www.loomio.org/about) is that more groups practicing effective, inclusive decision-making can change organisational dynamics at a global scale. This shows up in everything about how the tool is designed and [how we run as a co-op](http://loomio.coop). Ultimately, it’s about culture change through collaborative practice.
 * Loomio groups have experienced evolving culture through the tool. Like groups that already has a collaborative culture scale while holding onto that, or a participatory group continuing to exists instead of imploding due to challanges around inclusive decicion-making.
