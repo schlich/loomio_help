@@ -1,5 +1,6 @@
 ---
 title: Guides & How to's
+description: Practical examples of collaborative decision making.
 menu:
   main:
     parent: from_our_blog

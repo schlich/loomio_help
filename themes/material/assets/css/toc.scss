@@ -1,13 +1,11 @@
 aside.toc {
   @include mui-text("menu");
-  margin-left: 3em;
-  float: right;
   max-width: 20em;
   ul {
     list-style-type: none;
     padding-left: 0;
     ul {
-      padding-left: 1em;
+      padding-left: 0.5em;
     }
   }
   li {
