@@ -20,13 +20,9 @@
 //   padding: 1em;
 // }
 
-.sidenav--child {
-  padding: .4em 0;
-}
 
 #sidenav ul {
   list-style: none;
-  padding: 1em;
   @include mui-text("menu");
 }
 
@@ -35,7 +31,7 @@
 }
 
 #sidenav > li {
-  padding-left: 1em;
+  padding: .5em 0;
 }
 
 #sidenav > ul > li > ul {
