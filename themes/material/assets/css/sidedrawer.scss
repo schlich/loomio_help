@@ -6,17 +6,19 @@
    left: -200px;
    overflow: auto;
    z-index: 2;
-   background-color: #fff;
    transition: transform 0.2s;
+   border-right: 1px solid $mui-divider-color;
  }
 
 #sidedrawer-brand {
+  display: flex;
+  align-items: center;
   padding-left: 20px;
 }
 
-#sidenav strong+ul>li {
-  padding: 1em;
-}
+// #sidenav strong+ul>li {
+//   padding: 1em;
+// }
 
 .sidenav--child {
   padding: .4em 0;
@@ -24,12 +26,16 @@
 
 #sidenav ul {
   list-style: none;
-  padding: .5em 0;
+  padding: 1em;
   @include mui-text("menu");
 }
 
 #sidenav > ul {
   padding-left: 0;
+}
+
+#sidenav > li {
+  padding-left: 1em;
 }
 
 #sidenav > ul > li > ul {
@@ -45,6 +51,8 @@
 }
 
 #sidenav strong {
+  @include mui-text('subhead');
+  font-weight: bold;
   display: block;
   padding: 15px 22px;
   cursor: pointer;
@@ -80,4 +88,11 @@
 .sidedrawer-toggle:hover {
   color: #fff;
   text-decoration: none;
+}
+
+
+.sidedrawer-icon {
+  width: 24px;
+  height: 24px;
+  margin-right: 8px;
 }

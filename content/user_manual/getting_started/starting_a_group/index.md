@@ -7,11 +7,13 @@ menu:
     parent: getting_started
 ---
 
-Getting started is often the hardest part of anything. On Loomio, it involves getting everyone signed up, familiar with the tool, and comfortable making decisions together. If done well, the group will come to life as people take the initiative to start discussions and raise proposals.
+
+Getting started on Loomio means getting everyone signed up, familiar with the tool, and comfortable making decisions together. If done well, the group will come to life as people take the initiative to start discussions and raise proposals.
+
 
 Most Loomio groups need a champion to help them get going, and then they build their own momentum. If you're reading this, that champion is probably you!
 
-# Introduce Loomio
+## Introduce Loomio
 
 Have a discussion with your group about using Loomio.
 
@@ -23,7 +25,7 @@ Have a discussion with your group about using Loomio.
 
 Some people will be apprehensive about adopting a new piece of software for online decision-making. Talk to people in your group to work through any concerns.
 
-# Have a look around
+## Have a look around
 
 You need a good understanding of how to use Loomio, so you can assist others.
 
@@ -32,7 +34,7 @@ Make sure you understand the [group settings](https://loomio.gitbooks.io/manual/
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xwE0IM1k64E" frameborder="0" allowfullscreen></iframe>
 
 
-# Update your group description
+## Update your group description
 
 With a clear purpose, people can make judgement calls about what's best for the group. Understanding group context helps people get oriented.
 
@@ -40,13 +42,13 @@ Your Loomio group page has a space for information. Update this field so that ev
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/asZEbbiHH-s" frameborder="0" allowfullscreen></iframe>
 
-# Upload a profile photo
+## Upload a profile photo
 
 Seeing someone's face next to the text they've written can make it feel more human. It's especially important if you're the one welcoming everyone in.
 
 Upload your profile photo before sending invitations to join the group, so that your friendly image is included.
 
-# Upload a group photo
+## Upload a group photo
 
 Uploading a photo that has some meaning to your group significantly improves the sense of belonging. You can customise both the small square photo (eg, with a logo), and the big cover image (eg, with a group photo).
 
@@ -54,7 +56,7 @@ Uploading a photo that has some meaning to your group significantly improves the
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F2r2tKi3pxM" frameborder="0" allowfullscreen></iframe>
 
-# Introductions thread
+## Encourage Introductions
 
 A round of introductions is a great way for people to get to know a bit about each other and to feel more comfortable. Even if people are already acquainted, they can share more specifically about their role or perspective in the Loomio group.
 
@@ -63,7 +65,7 @@ New groups start with an introductions thread automatically. We recommend you ed
 To edit the introductions thread, click into it and select the edit option in the context box.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CGUH3UJrxfQ" frameborder="0" allowfullscreen></iframe>
 
-# Invite people
+## Invite people
 
 You're ready to invite people into the group! Loomio is a group collaboration tool, so this is an important step.
 
@@ -80,7 +82,7 @@ If people join but don't introduce themselves, you might like to welcome them to
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nm9hoOofblw" frameborder="0" allowfullscreen></iframe>
 
-# Champion the use of Loomio
+## Champion the use of Loomio
 
 If you model behaviour for others  to emulate, your group will be more inclusive and engaging. You can help decisions progress constructively.
 
@@ -90,10 +92,8 @@ For example:
 - “We haven’t heard from @Bill and @Ngaire … what are your thoughts?”
 - “We might be getting off topic here. I've started another Loomio discussion about that [here](http://www.loomio.org). Let's bring this back to the original focus.”
 
-# Move decisions to Loomio
-
-## If discussions are happening via email...
+## If discussions happen via email
 Remind the group you've agreeed to use Loomio and request people move the discussion over there. Sometimes it can be helpful to copy and paste what's been said so far and directly give everyone the Loomio link.
 
-## If decisions are being made in-person...
+## If decisions are being made in-person
 Recall why you wanted to use Loomio, and ask if the group wants to move the discussion online before concluding a decision. Common reasons are to include people who aren't in the room, and create documentation for future reference.

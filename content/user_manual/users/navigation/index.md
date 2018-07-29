@@ -1,9 +1,10 @@
 ---
 title: Navigating Loomio
+description: How to find what you're looking for in Loomio.
 menu:
   main:
     name: Navigation
-    parent: user_manual
+    parent: users
 ---
 
 There are 4 top level navigation tools within Loomio.
@@ -15,7 +16,7 @@ There are 4 top level navigation tools within Loomio.
 
 TODO: gif of the ui with the user opening each of the navigation tools.
 
-# Notifications
+## Notifications
 
 In the [navigation bar](navigating_loomio), the Bell icon will show all activities in threads you've started or participated in and all @mentions. Just click on one of them to see details or participate.
 
@@ -31,12 +32,12 @@ If you just want to do the minimum as a Loomio user, follow up on your notificat
 
 TODO: link to @mention section and notficaitions section of threads page.
 
-# Search
+## Search
 The search field appears when you click on the magnifying glass in the top navigation bar. It will display threads containing your keyword(s), in context, comments or decisions.
 
 You can find a thread by entering key words from it's title or context into the search field.
 
-# User menu
+## User menu
 The user menu is where you can access your user profile page, change your email preferences, find a link to this help manual, and sign out.
 
 You can view and update your user profile via **Edit profile**. Read the [User profile](user_profile) page for more information.
@@ -47,7 +48,7 @@ You'll also find a link to help resources, including this user guide.
 
 You can log-out of Loomio, which is recommended if you're not using a personal device to access it.
 
-# Sidebar
+## Sidebar
 The sidebar is where you find your discussions and your groups. It is displayed by default on large screens, and collapsed by default on small screens (such as smartphones), but can be toggled via the _3 horizontal bars_ icon in the top left of the screen.
 
 ## Recent Threads
@@ -72,6 +73,6 @@ All the groups you belong to are listed in the sidebar. If you are only a member
 ## Exploring public groups
 You can explore, and request membership to, public Loomio groups by visiting the **Explore** page. The **Explore** page is accessed via the **Explore public groups** option in the sidebar.
 
-# Searching for threads
+## Searching for threads
 
 ![opening sidebar](assets/navbar-en.gif)

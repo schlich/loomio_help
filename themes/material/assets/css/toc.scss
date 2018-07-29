@@ -1,11 +1,10 @@
 aside.toc {
-  @include mui-text("menu");
-  max-width: 20em;
+  @include mui-text("subhead");
   ul {
     list-style-type: none;
     padding-left: 0;
     ul {
-      padding-left: 0.5em;
+      padding-left: 0em;
     }
   }
   li {

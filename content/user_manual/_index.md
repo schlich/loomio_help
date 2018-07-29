@@ -1,6 +1,6 @@
 ---
-title: Loomio User manual
-description: Learn how Loomio works and how to use it within your group effectively.
+title: Loomio User Manual
+description: Learn how Loomio works and how to use it effectively in your group.
 weight: 10
 menu:
   main:

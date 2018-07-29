@@ -1,15 +1,15 @@
 ---
 title: Having discussions
 weight: 50
-description: Tips for having inclusive and effective discussions on Loomio.
+description: Tips for inclusive and effective discussions on Loomio.
 menu:
   main:
     parent: getting_started
 ---
 
-_facilitation_ means “to make easier; help forward”. Discussions on Loomio always work best when there is a clearly identified _facilitator_, someone who's role is to help the discussion move forward. There are a lot of things you can do to help your group have productive discussions — and you don't have to be a pro, in fact, anyone in a group can take little acts of facilitation.
+_Facilitation_ means “to make easier; help forward”. Discussions on Loomio always work best when there is a clearly identified _facilitator_, someone who's role is to help the discussion move forward. There are a lot of things you can do to help your group have productive discussions — and you don't have to be a pro, in fact, anyone in a group can take little acts of facilitation.
 
-# Keep the topic concise
+## Keep the topic concise
 
 Making the thread title and context clear and engaging is the best way to ensure a productive discussion. Take a little time to consider what contribution you would like from the group. For example:
 - Are you calling for personal experiences or asking for thoughts about some information?
@@ -18,7 +18,7 @@ Making the thread title and context clear and engaging is the best way to ensure
 
 As the person who's started the thread people will be expecting you to host the discussion and keep things on track as it progresses.
 
-# Maintain a safe environment
+## Maintain a safe environment
 
 > A [study of more than 180 teams within Google](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/) tells us that the number one factor in team performance is **psychological safety**.
 
@@ -28,7 +28,7 @@ If someone is distressed, being unconstructive, or is in a minority opinion they
 
 For more guidance, see [Resolving conflict on Loomio](http://joshuavial.com/loomio-conflict/).
 
-# Use straightforward language
+## Use simple language
 
 Be careful with humour and avoid sarcasm. These don't translate through text well, and it's easy for people to mistake a funny comment as something mean.
 
@@ -38,7 +38,7 @@ Long comments can be hard to follow. If you must write a long comment, divide it
 
 If your comment is tangential to the discussion, start a new thread to avoid distraction from that topic.
 
-# Getting attention
+## Getting attention
 
 Effective use of Loomio means knowing how and when to get attention from the group.
 
@@ -60,7 +60,7 @@ The most powerful way to get attention from your group. Ensure that you have a c
 
 Disagreement is an indicator that someone wants to be listened to, and gives valuable information that can lead to new thinking. Give them an opportunity to explain themselves. Remember, everyone can change their mind while a decision is still open.
 
-# Who's not present?
+## Who's not present?
 
 If someone's missing, invite them!
 
@@ -70,7 +70,7 @@ High quality decisions come from gathering the right inputs. Are there other peo
 
 Remember to look out for those people who are usually quiet. Don't just call them out, but consider how best to bring their perspective in, and why they might be hanging back.
 
-# Keep discussion on Loomio
+## Keep discussion on Loomio
 
 The same topic being discussed in multiple locations at once can quickly get messy. If you've decided to use Loomio, but people are reverting to email, consistently remind people to move the discussion to Loomio.
 
@@ -78,11 +78,11 @@ It takes time to build new habits, so be patient and consistent. It's helpful to
 
 If a topic progresses offline, update the Loomio thread with the new information, so later you have all the context in one place.
 
-# Keep the title and context relevant
+## Keep the title and context relevant
 
 Loomio threads are designed to evolve with a discussion, which is why the title and context box are editable. Make it easy for people to catch up by updating the thread context and title with the latest info. This also helps you later if you want to refer back to a previous discussion and quicky remind yourself what happened.
 
-# Break down complex issues
+## Break down complex issues
 
 **Working Groups or Committees**
 
@@ -96,6 +96,6 @@ If a complex discussion is raised, think about breaking it down into multiple th
 
 If you have an area of collaboration requiring many threads and ongoing collaboration, but it only affects certain people, you can create a [subgroup](https://help.loomio.org/en/subgroups.html). For example, offices in different geogrpahical locations, teams working on different projects, or groups with a specific mandate like a governance board.
 
-# Want to go in-depth about Facilitation?
+## Going in-depth on Facilitation
 
 See the [Facilitators Guide to Loomio](/facilitators_guide/) for information on all these topics and more.

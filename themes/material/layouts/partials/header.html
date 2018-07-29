@@ -1,16 +1,4 @@
-<header id="header">
-  <nav id="appbar" class="mui-appbar mui--appbar-line-height">
-    <div class="mui-container-fluid">
-      <a class="sidedrawer-toggle mui--visible-xs-inline-block mui--visible-sm-inline-block js-show-sidedrawer">☰</a>
-      <a class="sidedrawer-toggle mui--hidden-xs mui--hidden-sm js-hide-sidedrawer">☰</a>
-      <span class="mui--text-title mui--visible-xs-inline-block">{{.Site.Title}}</span>
-
-      {{ if .Parent }}
-      <a class="appbar-brand mui--hidden-sm mui--text-title" href="{{.Parent.URL}}">{{.Parent.Title}}</a>
-      <i class="icon-keyboard-arrow-right mui--hidden-sm">&gt;</i>
-      {{ end }}
-
-      <a class="appbar-brand mui--hidden-sm mui--text-title" href="{{.URL}}">{{.Title}}</a>
-    </div>
-  </nav>
+<header>
+  <h1 class="lmo-page-title">{{.Title}}</h1>
+  <h2 class="mui--text-dark-secondary">{{ .Description }}</h1>
 </header>

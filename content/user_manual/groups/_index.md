@@ -1,5 +1,7 @@
 ---
 title: Groups
+description: A detailed look at group settings and membership.
+weight: 20
 menu:
   main:
     identifier: groups
@@ -8,7 +10,7 @@ menu:
 
 Tour of a group page.
 ## discussion threads
-The main panel on the group page, under the desciption, is a list of the most recent discussion threads within the group.
+The main panel on the group page, under the description, is a list of the most recent discussion threads within the group.
 
 You can search for threads within the group by clicking the search icon.
 

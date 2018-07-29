@@ -1,13 +1,10 @@
 {{ define "main" }}
 <article>
-  <header>
-    <h1>{{.Title}}</h1>
-    <p>{{.Description}}</p>
-  </header>
+  {{- partial "header.html" . -}}
   <ul>
     {{ range .Pages }}
       <li>
-        <a href="{{.Permalink}}">{{.Title}}</a>
+        <a href="{{.Permalink}}" class="mui--text-title">{{.Title}}</a>
         <p>{{.Description}}</p>
       </li>
     {{ end }}
