@@ -1,7 +1,7 @@
 ---
-title: From our Blog
+title: Guides & Inspiration
 menu:
   main:
-    identifier: from_our_blog
+    identifier: guides_and_inspiration
     weight: 100
 ---

@@ -4,16 +4,18 @@
 
 .lmo-expert-advice {
   display: flex;
+  justify-content: center;
 }
 .lmo-expert-advice__expert {
-  min-width: 200px;
+  margin: auto;
+  width: 100px;
+  height: 100px;
 }
 
 .lmo-expert-advice__advice {
-
+  font-style: italic;
 }
 
 .lmo-page-title {
-  display: inline-block;
-  border-bottom: 1px solid $mui-primary-color;
+  color: $mui-primary-color;
 }

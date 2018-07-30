@@ -1,5 +1,7 @@
 ---
 title: Hosting, Translation & Development
+menu:
+  main:
 ---
 
 * Reporting bugs

@@ -8,6 +8,7 @@
    z-index: 2;
    transition: transform 0.2s;
    border-right: 1px solid $mui-divider-color;
+   background-color: #fff;
  }
 
 #sidedrawer-brand {
@@ -74,9 +75,7 @@
  * Header CSS
  */
 .sidedrawer-toggle {
-  color: #fff;
   cursor: pointer;
-  font-size: 20px;
   line-height: 20px;
   margin-right: 10px;
 }

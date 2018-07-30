@@ -3,7 +3,7 @@ title: Guides & How to's
 description: Practical examples of collaborative decision making.
 menu:
   main:
-    parent: from_our_blog
+    parent: guides_and_inspiration
 ---
 
 * [10 tips for making great decisions with Loomio](https://blog.loomio.org/2015/09/10/10-tips-for-making-great-decisions-with-loomio/)

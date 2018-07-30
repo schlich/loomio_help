@@ -4,7 +4,7 @@ description: Stories from people using Loomio for everything from company govern
 menu:
   main:
     name: Studies & Stories
-    parent: from_our_blog
+    parent: guides_and_inspiration
 ---
 
 ## Businesses & Co-ops

@@ -25,13 +25,15 @@ button {
 /**
  * Layout CSS
  */
-#header {
-  position: fixed;
-  top: 0;
-  right: 0;
-  left: 0;
-  z-index: 2;
-  transition: left 0.2s;
+
+.lmo-page {
+  max-width: 45rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  margin-right: auto;
+  img {
+    max-width: 100%;
+  }
 }
 
 #content-wrapper {
