@@ -17,7 +17,7 @@ Applying key concepts of Facilitation in the online space.
 # [Guides and Inspiration](/blog_links)
 Guides to implement Loomio in various situations. Stories from our users and more.
 
-# [Hosting, Translation & Development](/dev_manual)
+# [Open source](/dev_manual)
 Want to run your own Loomio instance, translate Loomio into another language, or develop your own features?
 
 ![Drawing of people using Loomio](loomio-new-way.png)

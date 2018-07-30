@@ -1,3 +1,6 @@
+---
+title: Accessibility
+---
 ## We're developing Loomio to be accessible to people who are blind.
 
 Recently we started a collaboration with [David Best](http://davidbest.ca/), whose experience as a web developer and a blind individual has been invaluable in teaching us how to make Loomio work for people how are navigating the web without vision.

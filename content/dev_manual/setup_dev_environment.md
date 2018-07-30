@@ -1,5 +1,6 @@
 ---
 title: Setup a Loomio development environment
+weight: 20
 ---
 
 There are 3 parts to this document: MacOS X system setup, Ubuntu system setup, and Application setup. You'll need to complete one of the system setups, and then the application setup after that.

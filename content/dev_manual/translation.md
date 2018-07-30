@@ -1,11 +1,16 @@
 ---
 title: Translating Loomio
+weight: 10
 ---
 You're here becuase you want to learn how to translate Loomio. Yay!
+
+If you have questions, join the [Loomio Community - Translation](https://www.loomio.org/g/cpaM3Hsv/loomio-community-translation) group.
 
 ## We use Transifex
 
 We use Transifex to manage our translation process (an excellent service that's free for open-source projects).
+
+[Loomio on Transifex](https://www.transifex.com/projects/p/loomio-1/)
 
 ### Sign up to Transifex
 
@@ -112,5 +117,3 @@ Feel free to bring these questions up in the [Loomio Community - Translation](ht
 If you would like to suggest an improvement, or have some feedback on the translation process, please feel free to start a discussion in the [Loomio Community - Translation](https://www.loomio.org/g/cpaM3Hsv/loomio-community-translation), or email Rob rob@loomio.org  
 
 **Links**
-- [Loomio Community - Translation](https://www.loomio.org/g/cpaM3Hsv/loomio-community-translation)
-- [Loomio on Transifex](https://www.transifex.com/projects/p/loomio-1/)

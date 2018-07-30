@@ -7,7 +7,6 @@
    overflow: auto;
    z-index: 2;
    transition: transform 0.2s;
-   border-right: 1px solid $mui-divider-color;
    background-color: #fff;
  }
 
@@ -70,7 +69,6 @@
   transform: translate(200px);
 }
 
-
 /**
  * Header CSS
  */
@@ -81,7 +79,6 @@
 }
 
 .sidedrawer-toggle:hover {
-  color: #fff;
   text-decoration: none;
 }
 
