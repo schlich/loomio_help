@@ -55,6 +55,11 @@ When you click **Remove from group** you'll see a confirmation modal explaining 
 
 ![](remove_member.png)
 
+## Leaving a group
+To leave a group click the _options_ button next to your group name on the group page.
+![](group_options_menu.png)
+![](leave_group.png)
+
 ## Assigning titles
 You can name the role someone has within the group, or identify which organisation they represent using the **title** feature. Just click "Set title" from the memberships panel.
 
