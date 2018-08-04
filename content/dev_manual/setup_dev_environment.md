@@ -75,6 +75,7 @@ $ git pull
 
 At the time of writing 2.3.5 is the latest version. Check the required version in ```.ruby-version``` at the root of this repository and use it in the commands below:
 Note that installing ruby may take a long time.
+
 ```
 $ rbenv install 2.3.5
 $ rbenv global 2.3.5
@@ -86,11 +87,13 @@ $ gem install bundler
 You'll need Node.js and it's best if you use `nvm` to install it. From [https://github.com/creationix/nvm](https://github.com/creationix/nvm) You'll find that you need to run:
 
 ### MacOS X:
+
 ```
 curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.6/install.sh | bash
 ```
 
 ### Ubuntu:
+
 ```
 wget -O - https://raw.githubusercontent.com/creationix/nvm/v0.33.6/install.sh | bash
 ```
