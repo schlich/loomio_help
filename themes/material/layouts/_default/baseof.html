@@ -18,7 +18,7 @@
     {{ partial "meta/name-author" . }}
     {{ template "_internal/opengraph.html" . }}
     {{ partial "meta/ogimage" . }}
-    
+
     {{ if .RSSLink }}
     <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" /> {{ end }}
 
@@ -42,9 +42,8 @@
   <body>
     {{- partial "sidenav/main.html" . -}}
     <main id="content-wrapper">
-        <div class="lmo-page">
-          {{- block "main" . }}{{- end }}
-        </div>
+      <div class="lmo-page">
+        {{- block "main" . }}{{- end }}
       </div>
     </main>
     {{- partial "footer.html" . -}}
