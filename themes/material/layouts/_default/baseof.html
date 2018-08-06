@@ -18,10 +18,7 @@
     {{ partial "meta/name-author" . }}
     {{ template "_internal/opengraph.html" . }}
     {{ partial "meta/ogimage" . }}
-    <!-- Site verification -->
-    {{ if .IsHome }} {{ partial "site-verification" . }} {{ end }}
-    <!-- add googleAnalytics in config.toml -->
-    {{ template "_internal/google_analytics_async.html" . }}
+    
     {{ if .RSSLink }}
     <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" /> {{ end }}
 
@@ -39,22 +36,8 @@
     {{ $style := resources.Get "css/main.scss" | toCSS | minify | fingerprint }}
     <link rel="stylesheet" href="{{ $style.Permalink }}">
     <script src="/bundle.js"></script>
+    {{- partial "matomo.html" . -}}
 
-    <!-- Matomo -->
-    <script type="text/javascript">
-      var _paq = _paq || [];
-      /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
-      _paq.push(['trackPageView']);
-      _paq.push(['enableLinkTracking']);
-      (function() {
-        var u="//hello.loomio.io/";
-        _paq.push(['setTrackerUrl', u+'js/']);
-        _paq.push(['setSiteId', '1']);
-        var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-        g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'js/'; s.parentNode.insertBefore(g,s);
-      })();
-    </script>
-    <!-- End Matomo Code -->    <!-- End Matomo Code -->
   </head>
   <body>
     {{- partial "sidenav/main.html" . -}}
