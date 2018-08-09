@@ -1,6 +1,6 @@
 .DS_Store
 public
 resources/_gen
-themes/material/node_modules
-themes/material/static/bundle.js
+node_modules/
+themes/
 yarn-error.log
