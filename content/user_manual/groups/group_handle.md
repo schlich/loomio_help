@@ -1,5 +1,6 @@
 ---
 title: Group handle
+draft: true
 menu:
   main:
     parent: groups

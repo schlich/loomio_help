@@ -1,5 +1,6 @@
 ---
 title: Group settings
+description: What they are and how to change them.
 menu:
   main:
     name: Settings

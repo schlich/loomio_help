@@ -15,14 +15,14 @@ People use it for all kinds of things, from approving funding applications to co
 
 ## How it works in four steps
 
-## 1. Gather
+### 1. Gather
 
 ![](gather.png)
 
 A Loomio **group** is an online place for people to have **discussions** and make **decisions** together.
 
 
-## 2. Discuss
+### 2. Discuss
 
 
 ![](discuss.png)
@@ -30,13 +30,13 @@ A Loomio **group** is an online place for people to have **discussions** and mak
 
 Anyone in the group can start a **discussion**. Everyone in the group is able to participate.
 
-## 3. Propose
+### 3. Propose
 
 ![](propose.png)
 
 **Proposals** are the defining feature of Loomio. Use a proposal to move a discussion towards **conclusion**. If you're wondering how to move a conversation forward, the answer is almost always **start a proposal**!
 
-## 4. Decide & Act
+### 4. Decide & Act
 
 ![](decide.png)
 

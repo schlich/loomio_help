@@ -1,5 +1,6 @@
 ---
 title: Invitations and membership
+description: How to invite people and manage memberships.
 menu:
   main:
     parent: groups

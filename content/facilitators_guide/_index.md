@@ -20,11 +20,13 @@ Loomio is *groupware*:
 
 There is a huge body of knowledge, best practice, and tradition in both in-person facilitation and online moderation, but the art and science of their intersection is only just emerging. This is the specific space where Loomio strives to excel.
 
+***
+
 ## About the author
 
-Hi! I'm Alanna.
+<img style="border-radius: 100%; float: right; margin: 0 0 2em 2em; max-width: 200px;" src="alanna_fringe_s.jpg">
 
-<img src="alanna_fringe_s.jpg">
+Hi! I'm Alanna.
 
 I'm one of the founders of Loomio, and I've been thinking deeply about how it works from a facilitation perspective since the beginning. I am not a seminal facilitation expert; I consider myself only a beginner in this craft that one could spend a lifetime honing.
 

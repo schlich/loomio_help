@@ -11,10 +11,10 @@ Loomio is an online tool used by thousands of groups around the world to increas
 ## [User manual](/user_manual)
 Start here to learn how to use Loomio and introduce it to your group.
 
-## [Facilitator's Guide to Loomio](/facilitators_guide)
+## [The Facilitator's Guide to Loomio](/facilitators_guide)
 Applying key concepts of Facilitation in the online space.
 
-## [Guides and Inspiration](/blog_links)
+## [Guides & Inspiration](/blog_links)
 Guides to implement Loomio in various situations. Stories from our users and more.
 
 ## [Open source](/dev_manual)
