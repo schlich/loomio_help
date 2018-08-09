@@ -8,30 +8,24 @@ title: Loomio Help
 
 Loomio is an online tool used by thousands of groups around the world to increase transparency and inclusion, decrease meetings and emails, and make better decisions together.
 
-# [User manual](/user_manual)
+## [User manual](/user_manual)
 Start here to learn how to use Loomio and introduce it to your group.
 
-# [Facilitator's Guide to Loomio](/facilitators_guide)
+## [Facilitator's Guide to Loomio](/facilitators_guide)
 Applying key concepts of Facilitation in the online space.
 
-# [Guides and Inspiration](/blog_links)
+## [Guides and Inspiration](/blog_links)
 Guides to implement Loomio in various situations. Stories from our users and more.
 
-# [Open source](/dev_manual)
+## [Open source](/dev_manual)
 Want to run your own Loomio instance, translate Loomio into another language, or develop your own features?
 
-![Drawing of people using Loomio](loomio-new-way.png)
+***
 
-This help resource is improving rapidly. If can't find an answer to a question you have, please [ask us](https://www.loomio.org/contact).
+## Can't find what you're looking for?
 
-[Here's the roadmap](/roadmap). If you'd like to contribute, please get in touch
+If you have a question that isn't answered here, please [contact us](https://www.loomio.org/contact).
 
-## Want to help?
-Loomio is open source software stewarded by the Loomio Cooperative.
+## We welcome contributions!
 
-Visit our [dev manual](dev_manual) if you want to:
-- Host your own Loomio instance
-- Translate Loomio into another language
-- Report bugs or test new features
-- Improve this help documentation or contribute an article
-- Develop new features or integrations
+If your group has used Loomio successfully, we'd love to share your story. Maybe you'd like to write a blog post or contribute a guide for groups similar to yours? Say hi in the [Loomio Community - Help](https://www.loomio.org/g/gEn4xSLw/loomio-community-help) group.

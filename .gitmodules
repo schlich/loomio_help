@@ -1,0 +1,3 @@
+[submodule "themes/loomio-hugo-theme"]
+	path = themes/loomio-hugo-theme
+	url = git@github.com:loomio/loomio-hugo-theme.git
