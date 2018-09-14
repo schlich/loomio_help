@@ -21,10 +21,10 @@ Clarification of purpose is one of the highest value offerings of a skilled faci
 
 On Loomio
 
-* The app offers space for explication of purpose, such as the [group description](https://loomio.gitbooks.io/manual/content/en/group_settings.html) and [discussion context](https://loomio.gitbooks.io/manual/content/en/discussion_threads.html) fields.
+* The app offers space for explication of purpose, such as the [group description](../../user_manual/groups/settings/) and [discussion context](../../user_manual/threads/) fields.
 * A Loomio discussion *about* purpose is a great place to start with your group, if it's not already clear.
 * Our analytics (stats about how people use the software) show that groups with a clear shared purpose are more successful.
-* [User interviews and case studies](http://loomio.school/case_studies.html) we've collected emphasise the importance of setting a collective purpose.
+* [User interviews and case studies](../../blog_links/case_studies) we've collected emphasise the importance of setting a collective purpose.
 
 
 ## Rearrange the Furniture
@@ -36,7 +36,7 @@ In offline spaces, literally rearranging the furniture is a habit that helps fac
 On Loomio
 
 * Inviting people into a new digital space specifically for decision-making is powerful — there’s a “threshold crossing” experience making it as distinct from other online spaces (which might be for socialising or other functions).
-* [Customising your group photo](https://loomio.gitbooks.io/manual/content/en/coordinating_your_group.html) is a prime opportunity to craft the feeling of the space.
+* [Customising your group photo](../../user_manual/groups/settings/#adding-a-cover-photo) is a prime opportunity to craft the feeling of the space.
 * The group description is a main piece of “furniture” on the group page, and [you can customise it](http://blog.loomio.org/2016/04/23/organise/) to suit.
 
 
@@ -66,7 +66,7 @@ On Loomio
 
 * Skilled users are already adapting Loomio for various experience designs — such as a multi-step consultation processes, signing off documents, etc. Each job, when facilitated effectively, takes a certain repeatable shape.
 * Online collaboration design doesn't have to reinvent the wheel. Trust what you know works, and translate it. Many tried and tested offline processes can be adapted to the online space (ex: the [Advice Process](http://blog.loomio.org/2016/11/09/advice-process/)).
-* [Case studies](http://loomio.school/case_studies.html) of thoughtfully designed processes could be used as “recipes” — if you're ot sure what design to use, start by seeing what others have tried.
+* [Case studies](../../blog_links/case_studies) of thoughtfully designed processes could be used as “recipes” — if you're ot sure what design to use, start by seeing what others have tried.
 
 
 
@@ -103,7 +103,7 @@ It’s critical that the group consents to be facilitated. Attempting to facilit
 Once a facilitator takes up a mandate, they carry enhanced responsibilities. Facilitators have more claim to floor time, and directing the group’s attention. This has to be used in service to the whole, not for a personal agenda. The words and demeanor of the facilitator will also have a disproportionate effect, meaning they have to act with heightened consideration.
 
 ### Power
-Facilitation by nature introduces power differntials. If the facilitator cannot exercise power in certain ways, they cannot do their job. For example, to keep a discussion on topic the facilitator might interrupt someone, or sayg that a certain way of interacting is not OK. It’s not appropriate to expect a facilitator to shoulder responsibility for the experience without giving them the powers they need to deliver successfully. There is no one right answer about how much power, but it has to be balanced with the level of responsibility.
+Facilitation by nature introduces power differentials. If the facilitator cannot exercise power in certain ways, they cannot do their job. For example, to keep a discussion on topic the facilitator might interrupt someone, or sayg that a certain way of interacting is not OK. It’s not appropriate to expect a facilitator to shoulder responsibility for the experience without giving them the powers they need to deliver successfully. There is no one right answer about how much power, but it has to be balanced with the level of responsibility.
 
 ### Responsiveness
 Facilitators do their best work when they can adapt effectively to the emergent reality. Human beings are endlessly complex, and groups of them exponentially more so. Rigid adherence to a plan or protocol without flexibility can set the group up to fail. If a facilitator is not allowed or not willing to adapt to changing circumstance, they cannot effectively hold the space for dynamic humans.

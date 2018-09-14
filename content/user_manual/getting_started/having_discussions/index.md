@@ -94,8 +94,8 @@ If a complex discussion is raised, think about breaking it down into multiple th
 
 **Subgroups**
 
-If you have an area of collaboration requiring many threads and ongoing collaboration, but it only affects certain people, you can create a [subgroup](https://help.loomio.org/en/subgroups.html). For example, offices in different geogrpahical locations, teams working on different projects, or groups with a specific mandate like a governance board.
+If you have an area of collaboration requiring many threads and ongoing collaboration, but it only affects certain people, you can create a [subgroup](../../groups/settings/#create-sub-groups). For example, offices in different geogrpahical locations, teams working on different projects, or groups with a specific mandate like a governance board.
 
 ## Going in-depth on Facilitation
 
-See the [Facilitators Guide to Loomio](/facilitators_guide/) for information on all these topics and more.
+See the [Facilitators Guide to Loomio](../../../facilitators_guide/) for information on all these topics and more.

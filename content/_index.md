@@ -8,16 +8,16 @@ title: Loomio Help
 
 Loomio is an online tool used by thousands of groups around the world to increase transparency and inclusion, decrease meetings and emails, and make better decisions together.
 
-## [User manual](/user_manual)
+## [User manual](user_manual)
 Start here to learn how to use Loomio and introduce it to your group.
 
-## [The Facilitator's Guide to Loomio](/facilitators_guide)
+## [The Facilitator's Guide to Loomio](facilitators_guide)
 Applying key concepts of Facilitation in the online space.
 
-## [Guides & Inspiration](/blog_links)
+## [Guides & Inspiration](blog_links)
 Guides to implement Loomio in various situations. Stories from our users and more.
 
-## [Open source](/dev_manual)
+## [Open source](dev_manual)
 Want to run your own Loomio instance, translate Loomio into another language, or develop your own features?
 
 ***

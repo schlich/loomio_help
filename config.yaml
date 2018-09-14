@@ -1,7 +1,19 @@
 title: Loomio Help
 baseURL: https://help.loomio.org
 languageCode: en-NZ
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: true
 theme: loomio-hugo-theme
 params:
   repoName: loomio/loomio_help
   useCategories: false
+languages:
+  en:
+    languageName: English
+    weight: 1
+  es:
+    languageName: Español
+    weight: 2
+  fr:
+    languageName: Français
+    weight: 3

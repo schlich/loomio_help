@@ -82,4 +82,4 @@ On Loomio
 * Loomio groups have experienced evolving culture through the tool. Like groups that already has a collaborative culture scale while holding onto that, or a participatory group continuing to exists instead of imploding due to challanges around inclusive decicion-making.
 * Loomio makes a certain kind of “new normal” of collaborative practice possible, through making collaborative practice more accessible and achievable.
 
-For inspiration about Ongoing Practice, check out [stories of Loomio groups](http://loomio.school/case_studies.html).
+For inspiration about Ongoing Practice, check out [stories of Loomio groups](../../blog_links/case_studies/).

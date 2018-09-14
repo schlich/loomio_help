@@ -25,7 +25,7 @@ You can update:
 * your location (useful for distributed groups so people can get an idea of where others are)
 
 # Language settings
-Loomio is developed in English, but [is translated by volunteers into many languages]({{ site.loomio_app_url }}/g/cpaM3Hsv/loomio-community-translation).
+Loomio is developed in English, but [is translated by volunteers into many languages](https://www.loomio.org/g/cpaM3Hsv/loomio-community-translation).
 
 Loomio will detect your browser’s language settings, but you can manually set your preferred language from the profile page.
 

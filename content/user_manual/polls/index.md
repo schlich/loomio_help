@@ -1,4 +1,4 @@
-This page is still being written. Please see [Getting Started - Decision tools](/getting_started/decision_tools) for more help.
+This page is still being written. Please see [Getting Started - Decision tools](../getting_started/decision_tools) for more help.
 
 Questions:
 

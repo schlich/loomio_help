@@ -16,7 +16,7 @@ menu:
 * [Getting your team to engage with new technology](http://blog.loomio.org/2015/02/20/how-to-engage-your-team-with-new-technology/)
 * [Resolving conflict on Loomio](http://joshuavial.com/loomio-conflict/)
 * [Online Holacracy Governance meetings](http://blog.loomio.org/2016/07/12/taking-holacracy-governance-to-the-next-level/)
-* [How to deal with trolls](trolls.md)
+* [How to deal with trolls](https://blog.loomio.org/2016/10/25/dont-feed-the-trolls-how-to-encourage-good-behaviour-online/)
 * [Use Loomio on your smartphone](http://blog.loomio.org/2016/04/22/smartphone/)
 * [More efficient in-person meetings with Loomio](http://blog.loomio.org/2015/07/16/more-efficient-in-person-meetings-with-loomio/)
 * [Organise your Loomio Group](http://blog.loomio.org/2016/04/23/organise/)

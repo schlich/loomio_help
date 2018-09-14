@@ -87,7 +87,7 @@ There are a selection of "decision tools" available to you within the thread.
 - Polls are useful to understand preferences of the group.
 - Use a time poll if you need to get everyone together at once, but don't know when is the best time.
 
-Find out more about [decision tools](/getting_started/decision_tools).
+Find out more about [decision tools](../getting_started/decision_tools).
 
 ## Comments and replies
 The most common activity in a thread is commenting and replying. The comment box is at the bottom of the thread page. Just write your comment in the box and press post to have your say.
@@ -104,7 +104,7 @@ If you want to get the attention of a specific person, type **@** into the comme
 </video>
 
 ## Formatting comments
-Loomio uses **Markdown** to format text and embed images. For more information on how to use Markdown, read [this guide]({{ site.loomio_app_url }}/markdown).
+Loomio uses **Markdown** to format text and embed images. For more information on how to use Markdown, read [this guide](https://www.loomio.org/markdown).
 
 ## Attaching files
 You can attach files to comments using the attachment button next to the **Post** button on the comment form. You will be prompted to select a file from your device.
@@ -135,7 +135,7 @@ Reactions are for sharing how a comment made you feel, or acknowledging somethin
 Loomio can translate a comment from one language into another automatically (with the help of Google Translate). If the author of a comment uses a language other than yours, a translate button will show up; Just click see the translation.
 
 ## Email notifications
-By default you'll be subscribed to receive email notifications about activity in a thread if you participate in it. If you don't want to be emailed further activity in a thread when you participate, [edit your preferences]({{ site.loomio_app_url }}/email_preferences) and turn off "
+By default you'll be subscribed to receive email notifications about activity in a thread if you participate in it. If you don't want to be emailed further activity in a thread when you participate, [edit your preferences](https://www.loomio.org/email_preferences) and turn off "
 Subscribe on participate".
 
 ![](subscribe_on_participation_off.png)

@@ -84,7 +84,7 @@ Examples:
 
 _Prioritise options together_
 
-![](assets/dot-vote.png)
+![](dot-vote.png)
 
 Everyone gets a number of dots to allocate against a set of options to represent their priorities. This can build a more detailed picture than a simple poll.
 
@@ -98,7 +98,7 @@ See [dotmocracy.org](http://dotmocracy.org/) for more tips and resources about t
 
 _Rank options in the order of preference._
 
-![](assets/Ranked_choice.png)
+![](ranked_choice.png)
 
 Offer a series of options for people to vote in their preferred order. You can choose the number of votes people can give and rank. This decision-making type allows people to express their opinion in more detail than traditional polls.
 
@@ -113,7 +113,7 @@ Examples:
 
 _Seek collective agreement_
 
-![](assets/proposal.png)
+![](proposal.png)
 
 Proposals are great for bringing a discussion to a clear outcome, developing or adopting policy, approving applications, and making decisions with input from others.
 

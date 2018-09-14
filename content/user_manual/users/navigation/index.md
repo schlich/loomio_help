@@ -18,7 +18,7 @@ TODO: gif of the ui with the user opening each of the navigation tools.
 
 ## Notifications
 
-In the [navigation bar](navigating_loomio), the Bell icon will show all activities in threads you've started or participated in and all @mentions. Just click on one of them to see details or participate.
+In the navigation bar at the top of the page, the Bell icon will show all activities in threads you've started or participated in and all @mentions. Just click on one of them to see details or participate.
 
 <video width="600" height="400" playsinline muted loop controls>
 <source src="checking_notifications.mp4" type="video/mp4">
@@ -40,7 +40,7 @@ You can find a thread by entering key words from it's title or context into the 
 ## User menu
 The user menu is where you can access your user profile page, change your email preferences, find a link to this help manual, and sign out.
 
-You can view and update your user profile via **Edit profile**. Read the [User profile](user_profile) page for more information.
+You can view and update your user profile via **Edit profile**. Read the [User profile](../user_profile) page for more information.
 
 You can change your email preferences **Email settings** option. Read the [Notifications] page to find out how to set things up to your liking.
 
@@ -72,7 +72,3 @@ All the groups you belong to are listed in the sidebar. If you are only a member
 
 ## Exploring public groups
 You can explore, and request membership to, public Loomio groups by visiting the **Explore** page. The **Explore** page is accessed via the **Explore public groups** option in the sidebar.
-
-## Searching for threads
-
-![opening sidebar](assets/navbar-en.gif)

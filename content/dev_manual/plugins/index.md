@@ -1,7 +1,7 @@
 ---
 title: Creating a plugin for Loomio
 ---
-Loomio’s recently released a plugin architecture, which will allow you to quickly and easily add functionality to Loomio on your own instance. There are some good docs in [the plugin README](https://github.com/loomio/loomio/blob/master/plugins/README.md), but I thought it might be helpful to step through how we make plugins here.
+Loomio’s recently released a plugin architecture, which will allow you to quickly and easily add functionality to Loomio on your own instance. There are some good docs in [the plugin README](https://github.com/loomio/loomio/blob/master/lib/plugins/README.md), but I thought it might be helpful to step through how we make plugins here.
 
 #### WHAT WE’LL BE MAKING:
 
@@ -9,7 +9,7 @@ The thing we’ll be making this time is a tagging plugin, which will allow grou
 
 It'll look like this:
 
-![](images/a_tag_yay.png)
+![](a_tag_yay.png)
 
 By the end of this article, we'll have:
 
@@ -191,7 +191,7 @@ _Note: the commands which ‘plugin’ accepts are well-documented in the [READM
 
 At this point, running `rails c` again should add those new tables and pop that new code into our instance.
 
-![](images/tables_exist.png)
+![](tables_exist.png)
 
 And if we run a few little experiments, we should see that we can now add tags and associate them with discussions via the console:
 
@@ -249,7 +249,7 @@ end
 This may look a little confusing, but here’s the gist:
 - **accessible_records** defines the DiscussionTags the current user has access to, namely those associated with discussions which the user can see
 - **instantiate_collection** passes in those accessible records as a collection, and assigns the result of the block to @discussion_tags
-- **respond_with_collection** takes @discussion_tags and serializes it according to our API standards (more on that [here](https://github.com/loomio/tech-manual/blob/master/using_the_loomio_api.md#api-response-information))
+- **respond_with_collection** takes @discussion_tags and serializes it according to our API standards (more on that [here](../using_the_api/))
 
 ##### 3. Create a serializer
 Finally, we’ll define how those discussion tags we’re responding with appear in our API response. A simplified version:
@@ -273,7 +273,7 @@ Now that we’ve got some plumbing going, we can start displaying our hard work 
 The angular interface is comprised primarily of ‘components’. A component is a collection of a directive, a template, and a stylesheet. Then, we can slot these components into ‘outlets’ in the interface.
 
 ##### 1. Adding a client side model
-Just like on the server side, Loomio has client side models as well, which are stored in a client side data store called a 'RecordsInterface'. You can check out the existing models and RecordsInterfaces in [client/angular/models](https://github.com/loomio/loomio/tree/master/client/angular/models). We'll want to make a model and corresponding records interface for our new DiscussionTags.
+Just like on the server side, Loomio has client side models as well, which are stored in a client side data store called a 'RecordsInterface'. You can check out the existing models and RecordsInterfaces in [client/angular/models](https://github.com/loomio/loomio/tree/master/client/shared/models). We'll want to make a model and corresponding records interface for our new DiscussionTags.
 
 ```
 # plugins/components/discussion_tags/discussion_tag_model.coffee
@@ -393,7 +393,7 @@ Now, if we load up our app, we’ll see our tag displayed nicely next to the dis
 
 If you're not testing it, you're not doing it right! We provide the ability to add your own specs. If they're in the plugins/ folder, they'll even be run as part of the CI, so you can be more confident that your plugins aren't breaking stuff.
 
-For this plugin, the thing that makes most sense is a controller spec, to make sure that we're responding with the right thing when an API call is made. You can check it out [here](https://github.com/loomio/loomio_tags/blob/master/spec/discussion_tags_controller_spec.rb).
+For this plugin, the thing that makes most sense is a controller spec, to make sure that we're responding with the right thing when an API call is made. You can check it out [here](https://github.com/loomio/loomio_tags/blob/master/spec/controllers/discussion_tags_controller_spec.rb).
 
 Some interesting things:
 - You can define factories right there in the file if you need them

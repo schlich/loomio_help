@@ -9,7 +9,7 @@ menu:
 
 Loomio is a simple, user-friendly online tool for collaborative decision-making. Loomio lets you host discussions online, invite the right people to participate, come to timely decisions and transform deliberation into real-world action.
 
-People use it for all kinds of things, from approving funding applications to cooperative governance to stakeholder engagement. The [case studies](/case_studies) section shows a variety of ways groups have used Loomio.
+People use it for all kinds of things, from approving funding applications to cooperative governance to stakeholder engagement. The [case studies](../../../blog_links/case_studies) section shows a variety of ways groups have used Loomio.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CoYYNthNxOY" frameborder="0" allowfullscreen></iframe>
 

@@ -218,5 +218,5 @@ On Loomio
 
 * Intervention tools in Loomio include comments, @mentions, adding/removing users, and starting/deleting discussions. These can be employed for various forms of supportive and assertive interventions.
 * The most commonly used intervention is the comment — simply talking to the group and inviting or trying to reduce certain behavior.
-* [Participation permissions](https://help.loomio.org/en/group_settings.html) offer relatively blunt but effective tools to moderate users, such as allowing or disallowing posting discussions or proposals.
+* [Participation permissions](../../user_manual/groups/settings/#advanced-settings) offer relatively blunt but effective tools to moderate users, such as allowing or disallowing posting discussions or proposals.
 * Loomio offers some trust-based features that other tools lack, such as the default ability for all participants to edit discussion contexts (even if it was posted originally by another user). These are inspired by things like Wikipedia and open source software development.
