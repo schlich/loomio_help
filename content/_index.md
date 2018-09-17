@@ -2,20 +2,20 @@
 title: Loomio Help
 ---
 
-<h1 class="lmo-page-title">Welcome to Loomio Help</h1>
+# Loomio Help
 
-<h2 class="mui--text-dark-secondary">Learn how to use Loomio, do great online facilitation and grow a collaborative culture. Help, training resources, guides, and stories.</h2>
+## Learn how to use Loomio, do great online facilitation and grow a collaborative culture.
 
-Loomio is an online tool used by thousands of groups around the world to increase transparency and inclusion, decrease meetings and emails, and make better decisions together.
+[Loomio](https://www.loomio.org) is an online tool used by thousands of groups around the world to increase transparency and inclusion, decrease meetings and emails, and make better decisions together.
 
-## [User manual](user_manual)
+## [Loomio User Manual](user_manual)
 Start here to learn how to use Loomio and introduce it to your group.
 
 ## [The Facilitator's Guide to Loomio](facilitators_guide)
 Applying key concepts of Facilitation in the online space.
 
 ## [Guides & Inspiration](blog_links)
-Guides to implement Loomio in various situations. Stories from our users and more.
+Guides to using Loomio in various situations. Stories from our users and more.
 
 ## [Open source](dev_manual)
 Want to run your own Loomio instance, translate Loomio into another language, or develop your own features?

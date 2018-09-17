@@ -6,6 +6,7 @@ defaultContentLanguageInSubdir: true
 theme: loomio-hugo-theme
 params:
   repoName: loomio/loomio_help
+  matomoId: 1
   useCategories: false
 languages:
   en:

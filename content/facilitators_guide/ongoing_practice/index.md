@@ -46,7 +46,7 @@ Consciously decide when peer facilitation is a good choice, and when a specific 
 {{%/expert_advice%}}
 
 
-### Translating this into Loomio
+## Translating this into Loomio
 
 * The online space is uniquely suited to distributed facilitation. Different people can come along at different points depending on what they notice and their skill set.
 * An online discussion is by default a distributed collaboration among peers. Any other setup requires explicit design. This is the opposite of offline spaces where the default is that someone called a meeting and distributing the role requires proactivity.
