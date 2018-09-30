@@ -25,12 +25,6 @@ Run hugo
 hugo serve --disableFastRender
 ```
 
-and run webpack
-```
-cd themes/material
-npx webpack
-```
-
 And open [http://localhost:1313/](http://localhost:1313)
 
 ## Publish
