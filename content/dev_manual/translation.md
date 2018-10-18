@@ -2,7 +2,7 @@
 title: Translating Loomio
 weight: 10
 ---
-You're here becuase you want to learn how to translate Loomio. Yay!
+You're here because you want to learn how to translate Loomio. Yay!
 
 If you have questions, join the [Loomio Community - Translation](https://www.loomio.org/g/cpaM3Hsv/loomio-community-translation) group.
 
