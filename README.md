@@ -2,20 +2,25 @@
 
 This is a [Hugo](https://gohugo.io) project.
 
-It uses Hugo's [asset pipeline](https://gohugo.io/hugo-pipes/) to build the stylesheet and [webpack](https://webpack.js.org/guides/) to build the javascript.
-
 ## Setup
 
-install Hugo (on MacOS):
+Install Hugo (on MacOS):
 
 ```
 brew install hugo
 ```
 
-fetch the node modules (from project root)
+Fetch this repo
+
 ```
-cd themes/material
-yarn
+git clone git@github.com:loomio/loomio_help.git
+```
+
+Fetch the theme repo
+
+```
+cd themes/
+git clone git@github.com:loomio/loomio-hugo-theme.git
 ```
 
 ## Development
@@ -25,25 +30,12 @@ Run hugo
 hugo serve --disableFastRender
 ```
 
-and run webpack
-```
-cd themes/material
-npx webpack
-```
-
-And open [http://localhost:1313/](http://localhost:1313)
+And open [http://localhost:1313/](http://localhost:1313) and edit some content. It will live reload.
 
 ## Publish
 
-You'll need your public ssh key added to docs.loomio.org, then
+For Loomio devs, You'll need your public ssh key added to docs.loomio.org, then
 
 ```
 ./publish.sh
 ```
-
-
-To run webpack
-
-
-
-To build the project during dev
