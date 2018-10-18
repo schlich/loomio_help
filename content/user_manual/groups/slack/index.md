@@ -17,4 +17,4 @@ If you want to change the channel that your Loomio slack integration is connecte
 <source src="remove_slack_integration.mov" type="video/mp4">
 </video>
 
-...and then follow the prompts above in the ## Set up Slack integration.
+...and then follow the prompts above in the Set up Slack integration.
