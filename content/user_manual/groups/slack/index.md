@@ -1,5 +1,9 @@
 ---
 title: Slack integration
+menu:
+  main:
+    name: Slack
+    parent: 'groups'
 ---
 LoomioBot is a bot that publishes activity from your Loomio group into your Slack channel so people can participate directly from Slack.
 
