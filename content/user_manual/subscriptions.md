@@ -12,7 +12,7 @@ Follow that link to your account, then:
 2. Choose a new plan
 3. Confirm changes.
 
-If you're having issues finding your billing portal link, please contact us.
+If you're having issues finding your billing portal link, please [contact us](https://www.loomio.org/contact).
 
 ## How to downgrade your account from any paid plan to free
 
@@ -25,4 +25,4 @@ Follow that link to your account, then:
 1. Under 'Plan Details', click on 'Cancel' (on the right)
 2. Confirm changes.
 
-If you're having issues finding your billing portal link, please contact us..
+If you're having issues finding your billing portal link, please [contact us](https://www.loomio.org/contact).
