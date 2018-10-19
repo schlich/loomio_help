@@ -8,13 +8,13 @@ If you would like to downgrade your Loomio subscription, you can do this via you
 
 Follow that link to your account, then:
 
-Under 'Plan Details', click on 'Change Plan' (on the right)
-Choose a new plan
-Confirm changes.
+1. Under 'Plan Details', click on 'Change Plan' (on the right)
+2. Choose a new plan
+3. Confirm changes.
 
 If you're having issues finding your billing portal link, please contact us.
 
-How to downgrade your account from any paid plan to free
+## How to downgrade your account from any paid plan to free
 
 If you would like to downgrade your Loomio subscription to a free one, then you can do this via your billing portal.
 
@@ -22,6 +22,7 @@ A link to this portal is included on all of your Loomio invoice/statements, whic
 
 Follow that link to your account, then:
 
-Under 'Plan Details', click on 'Cancel' (on the right)
-Confirm changes.
+1. Under 'Plan Details', click on 'Cancel' (on the right)
+2. Confirm changes.
+
 If you're having issues finding your billing portal link, please contact us..
