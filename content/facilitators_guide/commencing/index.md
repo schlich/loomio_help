@@ -36,7 +36,7 @@ On Loomio
 
 ## Arrival
 
-The moment of arrival is the “first impression” of an engagement, and sets the trajectory from there on out. The person has accepted an invitation and decided to step in. They are open and expectant, and the impression they get will make a big impact on their experience.
+The moment of arrival is the “first impression” of an engagement, and sets the trajectory from there on in. The person has accepted an invitation and decided to step in. They are open and expectant, and the impression they get will make a big impact on their experience.
 
 ### Welcoming
 To enable openness to engagement, participation, and receptivity, a person has to feel welcome. They need their existence acknowledged, and to feel a sense of hospitality.
@@ -55,18 +55,18 @@ On Loomio
 
 Introducing yourself and being introduced to others is one of the most basic and most important human social functions. From Māori *mihimihi* to British “how do you do” to Japanese business card exchanges, every culture places a lot of importance on this. It goes beyond practicalities and politeness and touches on a deep human need, which is a prerequisite for comfort, openness, and focus.
 
-As a facilitator, if you don’t give people a chance to introduce themselves and find out who is around them, they will generally subvert whatever else you’re trying to point their attention at until you allow this process to occur. Consciously design in introductions as a feature, and use them as an opportunity to further the overall goals of the interaction.
+As a facilitator, if you don’t give people a chance to introduce themselves and find out who is around them, they will generally subvert whatever else you’re trying to point their attention at until you allow this process to occur. Consciously design introductions as a feature, and use them as an opportunity to further the overall goals of the interaction.
 
 Even among groups who already know each other well, this introduction process continues with “checking in” and other good practices for team cohesion. People have a multitude of identities, which change based on the context. People answer and re-answer “who am I for this moment” all the time, and that is what allows them to orient around one another.
 
-People's expression does not occur in a vaccuum, but in the context of who the are. A multi-faceted view of someone’s identity is an essential aspect of interpreting their contributions.
+People's expression does not occur in a vaccuum, but in the context of who they are. A multi-faceted view of someone’s identity is an essential aspect of interpreting their contributions.
 
 > We start many of our meetings with everyone “checking in” before we get to the agenda. These check-ins are focused not on your work tasks, but on how you’re doing as a human being. If you’re going through a rough patch at home, or you’re sick, or you have exciting positive news, understanding your state of mind will help the entire group have the right context to interpret how you’re communicating. — Richard Bartlett
 
 On Loomio
 
 * Introduction threads began as a user-created “hack” of discussion threads. They were so widespread that now new Loomio groups automatically start with an intro thread pre-loaded. You can edit this thread to best suit your group's needs. It provides a useful first “call to action” everyone coming in will understand: introduce yourself.
-* For “request to join” groups, we have a function that allowed the requestor to introduce themselves to the coordinator to get access to the group. Some groups have a process of re-posting this content in the intro thread to welcome people in.
+* For “request to join” groups, we have a function that allows the requestor to introduce themselves to the coordinator, to get access to the group. Some groups have a process of re-posting this content in the intro thread to welcome people in.
 * Upload profile photos! Photos of faces are one of the most powerful ways of feeling like you know who is in the room with you online.
 
 
@@ -74,9 +74,9 @@ On Loomio
 
 Diversity is critical for quality group decision-making. The “wisdom of the crowd effect” (collective intelligence) only works by combining a variety of viewpoints. Outcomes of collaboration processes depend heavily on which voices are, and are not, represented. It’s impossible to have perfect representative inclusion, but you need to take into account who might be missing.
 
-It’s extremely common for people to have blind spots around privilege. Humans are not great at intuiting bias, and are a lot better at noticing the presence of something than the absence. Our minds trick us. For example, when women and men are deliberately given an equal amount of talking time there is often a perception that women are getting more than their fair share, due to different ideas about how much they “should” talk ([more details](https://www.quora.com/Do-women-tend-to-talk-more-than-men)). It can be necessary to actually measure or count to get an accurate picture, instead of relying on intuition.
+It’s extremely common for people to have blind spots around privilege. Humans are not great at intuiting bias, and are a lot better at noticing the presence of something, rather than the absence. Our minds trick us. For example, when women and men are deliberately given an equal amount of talking time there is often a perception that women are getting more than their fair share, due to different ideas about how much they “should” talk ([more details](https://www.quora.com/Do-women-tend-to-talk-more-than-men)). It can be necessary to actually measure or count to get an accurate picture, instead of relying on intuition.
 
-Someone who does not have particular accessibility needs may not even notice that a venue isn’t wheelchair accessible, a document isn’t formatted for screen readers, or a situation is excluding someone with hearing loss. But the people with those challenges will notice. Someone without kids might not consider that a 7PM meeting time won't work for parents. Or a thousand other practical, social, and cultural elements that could block someone from *being in the room*.
+Someone who does not have particular accessibility needs may not even notice that a venue isn’t wheelchair accessible, a document isn’t formatted for screen readers, or a situation is excluding someone with hearing loss. But the people with those challenges will notice. Someone without kids might not consider that a 7PM meeting time won't work for parents. These, and a thousand other practical, social, and cultural elements, could block someone from *being in the room*.
 
 It’s especially important to think about who is not in room when trying to solve problems for others: build with, not for; talk with people, not about them. If the people you are trying to serve are not in the room, it’s very unlikely you’ll have all the input you need to be effective. This is just as much about effectiveness for business outcomes as about social justice; it’s almost always better to design collaboration *with* the users or stakeholders.
 
@@ -84,7 +84,7 @@ On Loomio
 
 * Collaborating online can allow for whole other levels of inclusion. Instead of thinking about a “digital divide”, think about the “digital bridge” — how technology can include people who cannot attend in-person meetings or participate at a specific time, and enable whole new possibilities like multi-lingual discussions.
 * Loomio makes it very clear who is invited to a group and who has participated in a discussion, giving important information for thinking about inclusion. If people are missing, you can see that.
-* If inclusive decision making and diversity of thinking are important to you, periodically ask yourself, “Who’s not in the room Why?”
+* If inclusive decision making and diversity of thinking are important to you, periodically ask yourself, “Who’s not in the room? Why?”
 
 
 ## Culture, Protocol, Expectations
@@ -93,15 +93,15 @@ Culture can be quite a nebulous concept, and operates at multiple levels. The cu
 
 How do we roll? How do we talk to one another? What is and is not ok here? What are the rules of the game, of how we interact?
 
-The process of confronting cultural questions can be a powerful moment of self-awareness for a group. Not confronting them can harm the ability to meet  goals, or sometimes tear apart a group completely.
+The process of confronting cultural questions can be a powerful moment of self-awareness for a group. Not confronting them can harm ability to meet goals, or sometimes tear a group apart completely.
 
 Culture, protocol, and expectations can be implicit or explicit, and by nature intersect in complex ways with power dynamics and social capital. It’s a challenging balance to keep things loose enough to allow emergence, evolution, creativity, and freedom, while being explicit enough about bottom lines and boundaries to ensure safety.
 
 Facilitators often guide the group to live up to the culture it has set, follow the protocols it has agreed, and hold expectations to account. If a facilitator is tasked with this role, they need to be backed by a certain level of explicitness about those agreements, and a certain mandate. Otherwise, it can get messy.
 
-People often want to leave things to “common sense” and avoid agreeing a code of conduct or explicit protocols. However, this can disproportionately affect the most vulnerable members of the group, since they will feel the negative impacts of bad behavior or culture first and strongest, and are least empowered to counteract it themselves. It's the responsibility of the more priviledged or influential members of the group to think through these questions carefully.
+People often want to leave things to “common sense” and avoid agreeing a code of conduct or explicit protocols. However, this can disproportionately affect the most vulnerable members of the group, since they will feel the negative impacts of bad behavior or culture first and strongest, and are least empowered to counteract it themselves. It's the responsibility of the more privileged or influential members of the group to think through these questions carefully.
 
-Like a legal contract, you hope you never have to enforce a code of conduct, but if you need it you’re very glad it’s there. You want to agree it *before* it became necessary. In order for a facilitator or any member of the group to effectively stand up and say, “that’s not OK here”, you need to have already invested in culture-building and expectation-setting.
+Like a legal contract, you hope you never have to enforce a code of conduct, but if you need i,t you’re very glad it’s there. You want to agree *before* it becomes necessary. In order for a facilitator or any member of the group to effectively stand up and say, “that’s not OK here”, you need to have already invested in culture-building and expectation-setting.
 
 On Loomio
 
