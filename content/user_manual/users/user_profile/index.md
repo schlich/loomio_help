@@ -59,4 +59,5 @@ Once your account has been deactivated:
 If you login to your account with your email address you'll reactivate your account and regain access to your groups.
 
 # Permanently deleting your account
-Deleting is similar to deactivating your account however your user account record is permanently deleted from our database. This removes your personally identifying information including your name and email address. Your comments and other content will remain but it will show as being written by "deactivated user".
+
+Go to the section on [Deleting Your Loomio Account](../deleting_your_account)
