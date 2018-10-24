@@ -23,7 +23,7 @@ If you are hosting your own Loomio deployment, and would like to import your exp
 
 Copy the .json file to the container instance's `import` folder:
 
-`scp your-local-file.json username@some-domain.org:loomio-deploy/import`
+`scp your-group-data.json username@some-domain.org:loomio-deploy/import`
 
 Access the running Rails console:
 
@@ -31,4 +31,4 @@ Access the running Rails console:
 
 Call the service:
 
-`GroupExportService.import('/import/your-data-file.json')`
+`GroupExportService.import('/import/your-group-data.json')`
