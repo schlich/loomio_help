@@ -135,11 +135,13 @@ cd client; gulp dev
 
 ## Other things to know
 Rails stuff
+
 - sometimes `rails s` and similar commands will fail. Try with `bundle exec rails s` and that can help.
 - `rails c` will bring up a rails console
 - 'rspec' will run the rails tests
 
 Gulp stuff (run from the client folder)
+
 - `gulp nightwatch`: Run the automated frontend tests
 - `npm rebuild node-sass` has been known to be very useful
 - if you ever get into problems with node libraries: `rm -rf node_modules && yarn`
