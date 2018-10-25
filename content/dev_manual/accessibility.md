@@ -1,5 +1,6 @@
 ---
 title: Accessibility
+description: Guidance for Loomio developers to ensure Loomio is accessible.
 ---
 ## We're developing Loomio to be accessible to people who are blind.
 

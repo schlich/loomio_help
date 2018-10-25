@@ -1,5 +1,6 @@
 ---
 title: Translating Loomio
+description: Guide for people wanting to translate the Loomio user interface into another language.
 weight: 10
 ---
 You're here because you want to learn how to translate Loomio. Yay!

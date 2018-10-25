@@ -1,5 +1,6 @@
 ---
 title: Using the Loomio API
+description: Introduction to using the Loomio API
 ---
 
 Interested in interacting with Loomio from outside of Loomio? Awesome, you're in the right place!

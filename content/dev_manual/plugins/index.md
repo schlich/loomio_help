@@ -1,5 +1,6 @@
 ---
 title: Creating a plugin for Loomio
+description: A guide to writing a Loomio plugin to add new functionality.
 ---
 Loomio’s recently released a plugin architecture, which will allow you to quickly and easily add functionality to Loomio on your own instance. There are some good docs in [the plugin README](https://github.com/loomio/loomio/blob/master/lib/plugins/README.md), but I thought it might be helpful to step through how we make plugins here.
 
