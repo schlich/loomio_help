@@ -1,6 +1,5 @@
 ---
 title: Deleting your Loomio account
-description: How to delete your Loomio account
 ---
 ## To delete your account entirely:
 
