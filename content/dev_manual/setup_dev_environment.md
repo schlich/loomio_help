@@ -23,171 +23,125 @@ $ brew install ImageMagick --with-perl
 $ brew services start postgresql
 ```
 
-And that's it. You can jump to 'Install rbenv and ruby-build'
+And that's it. You can jump to 'Install ruby'
 
 ## Ubuntu system setup
 
-You will need PostgreSQL 9.4+ for the `jsonb` data type.
-
-### Ubuntu 12.04, 14.04, 16.04
-
-`postgresql-9.6` and `postgresql-contrib-9.6` is not in the repo, [ask ubuntu](https://askubuntu.com/questions/831292/how-do-i-install-postgresql-9-6-on-any-ubuntu-version) has the commands for adding the ppa and installing version 9.6.
-
-If you do not have wget installed, install it using `sudo apt-get install wget`.
-
-### All Ubuntu
-
 ```
 $ sudo apt-get update
-$ sudo apt-get install git-core postgresql-9.6 postgresql-contrib-9.6 build-essential \
-                       libssl-dev libpq-dev libffi-dev libmagickwand-dev \
-                       libreadline-gplv2-dev imagemagick wget libsqlite3-dev autoconf
+$ sudo apt-get install postgresql postgresql-contrib build-essential \
+                       libssl-dev libreadline-dev zlib1g-dev \
+                       libpq-dev libffi-dev libmagickwand-dev \
+                       imagemagick python
 ```
 
-## Install Ruby with rbenv
+## Install ruby
 
-From here onwards the instructions apply to both OSX and Linux.
+I recommend that you install ruby via rbenv, this gives you the flexiblity required to install and switch between various versions of ruby.
 
-### Install rbenv and ruby-build
+Follow the installation steps for rbenv from  [https://github.com/sstephenson/rbenv#installation](https://github.com/sstephenson/rbenv#installation).
 
-I recommend that you don't use managed (Homebrew, APT etc) versions of ruby, rbenv and ruby-build. They're no easier to use, and they tend to be out of date just when you need the latest version.
+Then install [ruby-build](https://github.com/sstephenson/ruby-build#readme) like so:
 
-First we install [rbenv](https://github.com/sstephenson/rbenv#installation).
-
-Test if rbenv is installed correctly:
 ```
-$ type rbenv
+mkdir -p "$(rbenv root)"/plugins
+git clone https://github.com/rbenv/ruby-build.git "$(rbenv root)"/plugins/ruby-build
 ```
-
-You should see:
-```
-#=> "rbenv is a function"
-```
-
-Now install [ruby-build](https://github.com/sstephenson/ruby-build#readme) using the rbenv plugin instructions.
 
 When a new version of ruby is released, you can update ruby-build with
 ```
-$ cd ~/.rbenv/plugins/ruby-build
-$ git pull
+cd "$(rbenv root)"/plugins/ruby-build && git pull
 ```
 
-### Build and Install Ruby and dependencies
-
-At the time of writing 2.3.5 is the latest version. Check the required version in ```.ruby-version``` at the root of this repository and use it in the commands below:
-Note that installing ruby may take a long time.
+At the time of writing 2.5.1 is the version of ruby that Loomio uses. To check what the current version required is, see [.ruby-version](https://github.com/loomio/loomio/blob/master/.ruby-version)
 
 ```
-$ rbenv install 2.3.5
-$ rbenv global 2.3.5
+$ rbenv install 2.5.1
+$ rbenv global 2.5.1
 $ gem install bundler
 ```
 
-## Install Node.js
+## Install node
 
-You'll need Node.js and it's best if you use `nvm` to install it. From [https://github.com/creationix/nvm](https://github.com/creationix/nvm) You'll find that you need to run:
-
-### MacOS X:
+You'll need Node.js and I recommend you use [nvm](https://github.com/creationix/nvm) to install it. Just run:
 
 ```
-curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.6/install.sh | bash
+curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.11/install.sh | bash
 ```
 
-### Ubuntu:
+You'll need to restart your terminal, then run:
 
 ```
-wget -O - https://raw.githubusercontent.com/creationix/nvm/v0.33.6/install.sh | bash
+nvm install node
+nvm alias default node
 ```
 
-## Clone the Loomio repo from github
-
-```
-git clone git@github.com:loomio/loomio.git && cd loomio
-```
-
-## Install the required node version
-Check the node version required by ensuring your node version matches with the version specified in the `engines` field of `client/package.json`
-```
-$ grep client/package.json -e 'engines' -A 3
-```
-
-We will now build and install that node version (at the time of writing 8.4.0):
-
-```
-$ nvm install 8.4.0
-$ nvm alias default 8.4.0
-```
-
-### Install two packages required for this project
+## Install two packages required for this project
 
 ```
 $ npm install -g yarn gulp
 ```
 
-## Create database user
+## Fork and clone the Loomio git repo
 
-### On OSX
-If you're on OSX then you can run the following bootstrap task to setup your system with postgresql, npm, bundler and gulp. It will then create an admin user. If you need help installing ruby, or more detail on installing the dependencies, please read [Setup Environment](setup_environment.md)
+I recommend you visit https://github.com/loomio/loomio then click "Fork" to create your own loomio repository to work from.
 
-If you are setting up with PostgreSQL for the first time, you would have to create a superuser.
+In my case my forked repo is available at https://github.com/robguthrie/loomio and I use the SSH based url to clone the repo to my computer:
 
 ```
-[sudo] su postgres -c 'createuser -P --superuser <username>'
+cd ~/projects # or wherever you like to keep your code
+git clone git@github.com:robguthrie/loomio.git && cd loomio
 ```
-### On Linux
-If running Linux, you'll use:
-```
-$ sudo -u postgres psql postgres
-postgres=# CREATE USER <youruseraccount> WITH SUPERUSER;
-\q
-$ logout
-```
-## Install loomio specific dependencies
 
-### Setup transfer encryption with Bundler
-```bundle config github.https true```
+## Install ruby and node dependencies
 
-### Install dependencies
+From you freshly checked out Loomio repo:
 
 ```
 bundle install
-cd client
-yarn
+cd client; yarn && cd ..
 ```
 
-## Run the bootstrap task
+## Create database.yml
+
 ```
-rake bootstrap
+cp config/database.sample.yml config/database.yml
 ```
 
-_NB: Take note of the email and password generated at the end of this task; you'll need it to log in once setup is complete_
+On Linux you'll need to create a postgres user with the same name as your Linux user account. This is not required on MacOS as it's automatic.
 
-## Build the frontend client
 ```
-gulp compile
+sudo postgres -c 'createuser -P --superuser <username>'
 ```
-## Launch the server
+
+## Setup the Loomio database and schema
+
 ```
-gulp dev
+rake db:setup
 ```
-And then in a new terminal instance
+
+## Launch rails and gulp
+Rails run the Loomio server, gulp builds the javascript client, and automatically rebuilds it when you make changes
+
 ```
 rails s
 ```
 
-If you do not run ```gulp dev``` your browser will connect to (and apparently load) the page served by rails, but the page itself will be blank.
-If you feel like your changes to the application aren't being picked up, try restarting this process.
+And in a new terminal instance
+```
+cd client; gulp dev
+```
 
-The rails server may tell you that it's listening on 0.0.0.0:[port], but attempting to log in at that page will result in 403 Forbidden and a redirect. Use localhost:[port] instead.
+## Other things to know
+Rails stuff
+- sometimes `rails s` and similar commands will fail. Try with `bundle exec rails s` and that can help.
+- `rails c` will bring up a rails console
+- 'rspec' will run the rails tests
 
-### Other things to know
-- There are several other gulp commands you can run to make your development go. These can be run from the `angular` folder.
-  - `gulp nightwatch`: Run the automated frontend tests
-  - `PRIVATE_PUB_SECRET_TOKEN=abc123 bundle exec rackup private_pub.ru -E production` is how to start faye (live updating) in development
-  - `npm rebuild node-sass` has been known to be very useful
-  - if you ever get into problems, then `rm -rf node_modules && yarn`
+Gulp stuff (run from the client folder)
+- `gulp nightwatch`: Run the automated frontend tests
+- `npm rebuild node-sass` has been known to be very useful
+- if you ever get into problems with node libraries: `rm -rf node_modules && yarn`
 
 ### Having trouble?
-
-- Make sure ruby (2.3.5), node (7.4.0), postgres (9.4+), and [ImageMagick](http://stackoverflow.com/questions/3704919/installing-rmagick-on-ubuntu) are installed
-- Let us know in the [product development](https://www.loomio.org/g/GN7EFQTK/loomio-community-product-development) group on Loomio.
+Let us know in the [product development](https://www.loomio.org/g/GN7EFQTK/loomio-community-product-development) group on Loomio.
