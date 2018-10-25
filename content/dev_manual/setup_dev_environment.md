@@ -73,8 +73,8 @@ curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.11/install.sh | 
 You'll need to restart your terminal, then run:
 
 ```
-nvm install node
-nvm alias default node
+nvm install 8.12.0
+nvm alias default 8.12.0
 ```
 
 ## Install two packages required for this project
