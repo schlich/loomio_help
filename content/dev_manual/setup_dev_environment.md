@@ -1,6 +1,6 @@
 ---
 title: Setup a Loomio development environment
-desecription: A step by step guide for people wanting to install Loomio on their personal computer so they can fix bugs and write features.
+description: A step by step guide for people wanting to install Loomio on their personal computer so they can fix bugs and write features.
 weight: 20
 ---
 
