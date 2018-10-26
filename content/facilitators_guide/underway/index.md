@@ -13,7 +13,7 @@ menu:
 
 People feel more confident and better held if they can orient themselves on a timeline or agenda. They want to know what they’re doing now, what’s coming up, and to be reminded of what they’ve already done. Understanding the overall shape of the process helps people understand how to contribute effectively.
 
-For example if they can see there’s a Q&A section later, they'll be more willing to hold their questions during a presentation. If it’s clear that there’s a divergent phase and then a convergent phase, people will hold back from jumping to solutions too soon. People need to know what kind of input they are being asked for when.
+For example if they can see there’s a Q&A section later, they'll be more willing to hold their questions during a presentation. If it’s clear that there’s a divergent phase and then a convergent phase, people will hold back from jumping to solutions too soon. People need to know what kind of input they are being asked for, and when.
 
 Mapping the process well enough to communicate it also challenges facilitators to fully think through the journey, and helps them make sure each part of the process has a purpose that builds a cohesive whole. A well-facilitated experience follows a logical progression.
 
@@ -134,18 +134,18 @@ Successful collaboration often depends on biting off the right size pieces in th
 
 You can apply a “project management” mindset to facilitation, designing for questions like:
 
-* * What are the dependencies (what’s the critical path, which things need to be done first to enable other things)?
-* What’s the most important bits to focus on? What can be left out?
+* What are the dependencies (what’s the critical path, which things need to be done first to enable other things)?
+* What are the most important bits to focus on? What can be left out?
 * What is an achievable scope to tackle at a given time to get to a useful place with the time, energy, and information available?
 
-It’s important not to try to “boil the ocean”, and instead break things down into manageable chunks. You can build toward a bigger outcome in a series of smaller pieces. It’s often better to achieve something small but useful than to fail to reach any conclusions. It’s also possible to get too bogged down in details and fail to hit the bigger issues.
+It’s important not to try to “boil the ocean”, and instead break things down into manageable chunks. You can build toward a bigger outcome in a series of smaller pieces. It’s often better to achieve something small but useful, than to fail to reach any conclusions. It’s also possible to get too bogged down in details and fail to hit the bigger issues.
 
-In a collaboration, no one knows exactly what will emerge, so scope must evolve with the discussion. Whether branching out at a given moment is a distraction or an evolution is a judgement call. Too much rigidity and too much flexibility can both be damaging. Often times it’s not about whether something is relevant or not relevant, but a question of sequence and timing in terms of what will be most constructive.
+In a collaboration, no one knows exactly what will emerge, so scope must evolve with the discussion. Whether branching out at a given moment is a distraction or an evolution is a judgement call. Too much rigidity and too much flexibility can both be damaging. Often times it’s not about whether something is relevant or not, but a question of sequence and timing in terms of what will be most constructive.
 
 > If you plan a session with multiple, interlinked parts – each one building on the other, and all leading to a life-changing, mind-exploding conclusion – and you can pull it off, then that’s amazing. But more often than not, a complicated session will go over-time and may not hit the participant’s wants and needs. -- Silvia Zuur
 
 ## A series of small yes's
-Lumping too many conversations together simply creates confusion. Frustrated groups are often helped by breaking things down. If an issue seems hopeless complex or conflicted, it can be possible to separate out individual questions and reach consensus on them, starting with the easiest things to agree. Then when it comes to points of disagreement, you can pare it down to only the crux of the issues and work on them in a focused way.
+Lumping too many conversations together simply creates confusion. Frustrated groups are often helped by breaking things down. If an issue seems hopeless, complex or conflicted, it can be possible to separate out individual questions and reach consensus on them, starting with the easiest things to agree. Then when it comes to points of disagreement, you can pare it down to only the crux of the issues and work on them in a focused way.
 
 On Loomio
 
@@ -160,7 +160,7 @@ On Loomio
 
 A productive conversation has a rhythm. The right beat comes from a complex combination of factors and often feels intuitive, like a musician improvising. When is the moment to go deeper, or pull back? When is it right to bring in new information, or further delve into what’s already on the table? This is pacing.
 
-Different participants will have different needs and preferences — some will need reigning in, while others need pulling along. The right pace emerges when a creative tension between digging deeper and moving forward is found. When it’s off , people will feel frustrated — either impatient or left behind.
+Different participants will have different needs and preferences — some will need reigning in, while others need pulling along. The right pace emerges when a creative tension between digging deeper and moving forward is found. When it’s off, people will feel frustrated — either impatient or left behind.
 
 On Loomio
 
@@ -176,7 +176,7 @@ On Loomio
 
 ## Managing the Attention Economy
 
-A facilitator is a curator of attention. The information available can be literally infinite. It becomes critical to filter it in order to avoid overwhelm. Managing the attention economy means balancing importance against time and capacity.
+A facilitator is a curator of attention. The information available can be literally infinite. It becomes critical to filter it in order to avoid becoming overwhelmed. Managing the attention economy means balancing importance against time and capacity.
 
 Facilitation can help the group agree what the purpose and scope of a given discussion or process is, so they can have a rubric for prioritising attention. Limiting distractions and steering the conversation back on track are common interventions.
 
@@ -208,7 +208,7 @@ There are as many facilitation techniques as there are facilitators in the world
 However, it might be useful to consider two categories of interventions:
 
 1. **Supportive interventions**: inviting contribution, going deeper, drawing out, coaxing, nurturing, protecting, creating space.
-2. **Assertive interventions**: pulling back, shutting down, drawing lines, interrupting, challenging, steering on course, excluding bad behavior.
+2. **Assertive interventions**: pulling back, shutting down, drawing lines, interrupting, challenging, steering on course, excluding bad behaviour.
 
 Almost all interventions in face-to-face facilitation can be reimagined and employed in the online space.
 
@@ -217,6 +217,6 @@ Almost all interventions in face-to-face facilitation can be reimagined and empl
 On Loomio
 
 * Intervention tools in Loomio include comments, @mentions, adding/removing users, and starting/deleting discussions. These can be employed for various forms of supportive and assertive interventions.
-* The most commonly used intervention is the comment — simply talking to the group and inviting or trying to reduce certain behavior.
+* The most commonly used intervention is the comment — simply talking to the group and inviting or trying to reduce certain behaviour.
 * [Participation permissions](../../user_manual/groups/settings/#advanced-settings) offer relatively blunt but effective tools to moderate users, such as allowing or disallowing posting discussions or proposals.
 * Loomio offers some trust-based features that other tools lack, such as the default ability for all participants to edit discussion contexts (even if it was posted originally by another user). These are inspired by things like Wikipedia and open source software development.
