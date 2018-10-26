@@ -3,9 +3,9 @@ title: Deleting your Loomio account
 ---
 ## To delete your account entirely:
 
-1. Login to Loomio, and click on your account avatar or initials, at the top right of your screen.
-2. Scroll to the bottom, and click on DELETE ACCOUNT.
-3. A pop up will appear - click on YES, DELETE MY ACCOUNT.
+ 1. Login to Loomio, and click on your account avatar or initials, at the top right of your screen.
+ 2. Scroll to the bottom, and click on DELETE ACCOUNT.
+ 3. A pop up will appear - click on YES, DELETE MY ACCOUNT.
 
 ![](delete_your_account.png)
 
