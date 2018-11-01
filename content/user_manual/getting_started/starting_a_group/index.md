@@ -8,7 +8,7 @@ menu:
 ---
 
 
-Getting started on Loomio means getting everyone signed up, familiar with the tool, and comfortable making decisions together. If done well, the group will come to life as people take the initiative to start discussions and raise proposals.
+Getting started on Loomio means getting everyone signed up, familiar with the tool, and comfortable making decisions together. When done well, the group will come to life as people take the initiative to start discussions and raise proposals.
 
 
 Most Loomio groups need a champion to help them get going, and then they build their own momentum. If you're reading this, that champion is probably you!
