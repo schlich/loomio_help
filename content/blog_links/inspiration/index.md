@@ -53,6 +53,7 @@ menu:
 
 ## Resources
 
+* [Loomio Community (Loomio group)](https://www.loomio.org/community/)
 * [Loomio Cooperative Handbook](http://loomio.coop)
 * [Enspiral Handbook](http://handbook.enspiral.com)
 
