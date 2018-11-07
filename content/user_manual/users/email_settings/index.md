@@ -55,7 +55,7 @@ You can ensure that any new groups you join have the settings you prefer.
 
 ## Thread email settings
 
-The email settings for a thread are similar to those for a group. A thread will use the email settings for a group unless you change it for that thread.
+The email settings for a thread are similar to those for a group. A thread will use the email settings for the group in which it resides unless you change it for that thread.
 
 Note that the _subscribe on participation_ setting affects your thread email settings. If _subscribe on participation_ is enabled, when you participate in a thread your email settings will change to "All activity" for that thread.
 
