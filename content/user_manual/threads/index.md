@@ -132,6 +132,7 @@ Reactions are for sharing how a comment made you feel, or acknowledging somethin
 <video width="600" height="400" playsinline muted loop controls>
 <source src="inline_translation.mp4" type="video/mp4">
 </video>
+
 Loomio can translate a comment from one language into another automatically (with the help of Google Translate). If the author of a comment uses a language other than yours, a translate button will show up; Just click see the translation.
 
 ## Email notifications
@@ -168,6 +169,7 @@ You can delete your own comments at any time. If you're the coordinator of a gro
 <video width="600" height="400" playsinline muted loop controls>
 <source src="forking_comments.mp4" type="video/mp4">
 </video>
+
 Sometimes a comment is useful, but off topic for the thread. In this case you can start a new discussion, selecting the comments to take into it from the current thread.
 
 ## Moving threads between groups
@@ -189,5 +191,6 @@ You can list all the closed threads. Just click the "x Closed" label at the top 
 
 ### How can I send a message to everyone in my group?
 If you have an important message, and you want to ensure that everyone in your group to receive it, start a discussion and invite everyone into it.
+
 ![](start_important_thread_modal.png)
 ![](invite_to_thread_modal.png)
