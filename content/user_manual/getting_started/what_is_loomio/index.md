@@ -34,7 +34,7 @@ Anyone in the group can start a **discussion**. Everyone in the group is able to
 
 ![](propose.png)
 
-**Proposals** are the defining feature of Loomio. Use a proposal to move a discussion towards **conclusion**. If you're wondering how to move a conversation forward, the answer is almost always **start a proposal**!
+**Proposals** are the defining feature of Loomio. Use a proposal to move a discussion towards **conclusion**. If you're wondering how to move a conversation forward, the answer is almost always to **start a proposal**!
 
 ### 4. Decide & Act
 
@@ -56,4 +56,4 @@ Over time you'll build a **history of decisions** you can refer to.
 ---
 
 ## About us
-Loomio is a cooperative social enterprise. Our mission is to empower anyone, anywhere to participate in decisions that affect their lives. We're a social enterprise based in Wellington, Aotearoa New Zealand. [Find out more](https://www.loomio.org/about).
+Loomio is a cooperative social enterprise based in Wellington, Aotearoa New Zealand. Our mission is to empower anyone, anywhere to participate in decisions that affect their lives. [Find out more](https://www.loomio.org/about).
