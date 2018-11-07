@@ -80,6 +80,24 @@ Examples:
 * What size t-shirt would you like?
 * If we ran a workshop, how likely are you to attend?
 
+## Score poll
+
+_Express the degree of preference for each option_
+
+![](score_poll_form.png)
+
+The score poll is commonly used for general surveys or 'temperature checks', in which electing a single 'winning' option is not necessarily the point.
+
+![](score_poll_results.png)
+
+People get to express their desire, preference or interest in each option. The poll produces more granular results than a simple majority vote.
+
+Examples:
+
+* How would you rate your interest in these topics for the next meeting agenda?
+* How important is each of these principles to you when considering our team vision?
+* How much would you like to see each of the following speakers at the next conference?
+
 ## Dot vote
 
 _Prioritise options together_
