@@ -52,7 +52,7 @@ We recommend that you share the coordinator permission with everyone who is trus
 ## Removing group members
 On the **Members** page, next to every member there is a **Remove from group** option.
 
-When you click **Remove from group** you'll see a confirmation modal explaining what removal will mean.
+When you click **Remove from group** you'll see a confirmation box explaining what removal will mean.
 
 ![](remove_member.png)
 
