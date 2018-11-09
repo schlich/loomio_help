@@ -116,7 +116,7 @@ See [dotmocracy.org](http://dotmocracy.org/) for more tips and resources about t
 
 _Rank options in the order of preference._
 
-![](ranked_choice.png)
+![](ranked-choice.png)
 
 Offer a series of options for people to vote in their preferred order. You can choose the number of votes people can give and rank. This decision-making type allows people to express their opinion in more detail than traditional polls.
 
