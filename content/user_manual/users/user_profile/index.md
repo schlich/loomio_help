@@ -18,6 +18,7 @@ When you first create a Loomio account, your initials will be the default image 
 # Update your personal info
 
 You can update:
+
 * your name,
 * your username (your username is the name people will use to @mention you in comments),
 * your email address,
