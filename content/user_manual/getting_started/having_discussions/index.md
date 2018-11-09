@@ -46,15 +46,15 @@ If you ask for attention when it's really important, and avoid that when it's no
 
 **Start a discussion**
 
-By default everyone is emailed when you start a discussion, so you should assume that it will get everyone's attention.
+When you start a discussion, you can choose to select all members of a group, or a select number of them. When you select the whole group, you can assume it will get everyone's attention.
 
 **Mentioning**
 
-A direct way of asking for someone's attention. Use the `@` symbol and select the person's name. It's expected that you respond when someone _mentions_ you.
+A direct way of asking for someone's attention. Use the `@` symbol and select the person's name. It's often expected that you respond when someone _mentions_ you.
 
 **Start a decision**
 
-The most powerful way to get attention from your group. Ensure that you have a clear decision description so people know how to participate. Loomio will notify everyone about new decisions, and also remind them before the closing deadline.
+The most powerful way to get attention from your group. Ensure that you have a clear decision description so people know how to participate. Loomio will notify everyone you choose (the whole group, everyone in the thread, or selected individuals) about new decisions. Loomio will also remind participants, and those you invite to the decision, before the closing deadline.
 
 **Disagreeing and Blocking**
 
