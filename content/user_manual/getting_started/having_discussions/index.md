@@ -12,6 +12,7 @@ _Facilitation_ means “to make easier; help forward”. Discussions on Loomio a
 ## Keep the topic concise
 
 Making the thread title and context clear and engaging is the best way to ensure a productive discussion. Take a little time to consider what contribution you would like from the group. For example:
+
 - Are you calling for personal experiences or asking for thoughts about some information?
 - Over what time frame will the discussion take place?
 - Will a decision be made within the thread?
@@ -42,7 +43,7 @@ If your comment is tangential to the discussion, start a new thread to avoid dis
 
 Effective use of Loomio means knowing how and when to get attention from the group.
 
-If you ask for attention when it's really important, and avoid that when it's not, people will keep paying attention.
+If you ask for attention when it's really important, and avoid it when it's not, people will keep paying attention.
 
 **Start a discussion**
 
