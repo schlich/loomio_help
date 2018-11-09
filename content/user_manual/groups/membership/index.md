@@ -34,6 +34,7 @@ For example: At first, you can send 100 invitations. After 50 people accept thei
 
 ## Managing invitations
 ![](invitations_panel.png)
+
 You can also make people coordinators or set their title within the group before they accept their invitation.
 
 ## Cancelling invitations
@@ -41,6 +42,8 @@ If you entered the wrong email address, or have changed your mind about inviting
 
 ## Managing memberships
 ![](members_panel.png)
+
+You will find the "Group members" management panel in the right column of your group or subroup. Click on the three dots to adjust group members' settings and permissions as described below.
 
 ## Coordinators
 Also known as "Admin" status. Group coordinators can add and remove members, grant and remove coordinator permissions and modify group settings.
