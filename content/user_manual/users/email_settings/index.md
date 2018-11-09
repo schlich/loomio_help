@@ -26,9 +26,11 @@ There are three settings that apply to every group you belong to.
 
 ![email settings](user_email_settings.png)
 
-* **Daily summary email**: Enabling this setting means each morning you will get an email with any activity that you missed the day before. This email provides an easy routine for staying up to date with Loomio activity.
-* **Subscribe on participation**: Enabling this setting means when you participate in a thread, all further activity will be emailed to you immediately.
-* **Mentions**: Enabling this setting means when someone wants to get your attention, they can @mention your name in a comment, which will notify you. We recommend you leave this setting on, so you'll get an email when this happens.
+* _Daily summary email_: Enabling this setting means each morning you will get an email with any activity that you missed the day before. This email provides an easy routine for staying up to date with Loomio activity.
+
+* _Subscribe on participation_: Enabling this setting means when you participate in a thread, all further activity will be emailed to you immediately.
+
+* _Mentions & Replies_: Enabling this setting means when someone wants to get your attention, they can @mention your name in a comment, which will notify you. We recommend you leave this setting on, so you'll get an email when this happens.
 
 ## Group email settings
 
@@ -38,9 +40,9 @@ There are 3 settings per group:
 
 - _All activity_ - If you want the experience of a traditional email mailing list, where you are emailed everything as it happens. You will be emailed whenever there is activity (comments, votes, new threads, proposals, and proposal outcomes) in this group.
 
-- _Important activity_ - When someone invites you to vote or participate in a thread you'll get an email. In these cases someone in your group is choosing to notify you.
+- _Announcements_ - When someone invites you to vote or participate in a thread you'll get an email. In these cases someone in your group is choosing to notify you.
 
-- _No activity_ - You won't get notification emails about this group. It's up to you to check into Loomio or read your daily summary email to stay updated.
+- _No emails_ - You won't get notification emails about this group. It's up to you to check into Loomio or read your daily summary email to stay updated.
 
 You can also apply a particular setting to all of your groups by checking *Apply these settings to all my groups*.
 
