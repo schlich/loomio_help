@@ -40,13 +40,13 @@ You can find a thread by entering key words from it's title or context into the 
 ## User menu
 The user menu is where you can access your user profile page, change your email preferences, find a link to this help manual, and sign out.
 
-You can view and update your user profile via **Edit profile**. Read the [User profile](../user_profile) page for more information.
+- You can view and update your user profile via **Edit profile**. Read the [User profile](../user_profile) page for more information.
 
-You can change your email preferences **Email settings** option. Read the [Notifications] page to find out how to set things up to your liking.
+- You can change your email preferences via **Email settings**. Read the [Email settings](../email_settings) page to find out how to set things up to your liking.
 
-You'll also find a link to help resources, including this user guide.
+- You'll also find a link to all our help resources, including this user manual.
 
-You can log-out of Loomio, which is recommended if you're not using a personal device to access it.
+- You can log out of Loomio, which is recommended if you're not using a personal device to access it.
 
 ## Sidebar
 The sidebar is where you find your discussions and your groups. It is displayed by default on large screens, and collapsed by default on small screens (such as smartphones), but can be toggled via the _3 horizontal bars_ icon in the top left of the screen.
@@ -55,7 +55,7 @@ The sidebar is where you find your discussions and your groups. It is displayed 
 
 The **Recent Threads** page gives you an overview of the most recent activity happening in your groups. You can access this page via the **Recent** option in the sidebar. If you are a member of multiple groups the **Recent Threads** page will be your landing page when you sign into Loomio.
 
-The **Recent Threads** page displays content from your groups in a prioritised list. Open proposals are at the top, followed by all of the threads from your groups, sorted by most recent activity; **Today**, **Yesterday**,** This month**, **Older than a month**.
+The **Recent Threads** page displays content from your groups in a prioritised list. Open proposals are at the top, followed by all of the threads from your groups, sorted by most recent activity; **Today**, **Yesterday**, **This month**, **Older than a month**.
 
 If a thread or proposal title is **bold** then new activity has taken place since you last visited. Numbers in parentheses reflect how many new comments or votes have been posted since you last visited a particular thread. Decisions will show a graphic representation (a pie graph for proposals, bar charts for other poll types), with your position on the proposal superimposed on the graph. If you haven’t yet stated a position, there will be a question mark.
 
