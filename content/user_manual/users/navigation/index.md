@@ -26,11 +26,11 @@ In the navigation bar at the top of the page, the Bell icon will show all activi
 
 When someone wants to get your attention, they'll send you a notification. This could be via an @mention or an invitation to participate in a thread or poll.
 
-If you have unread notifications we'll display the number of unread over the top of the notificatinos menu button.
+If you have unread notifications we'll display the number that are unread over the top of the bell-shaped notifications menu button.
 
-If you just want to do the minimum as a Loomio user, follow up on your notifications.
+If you just want to do the minimum as a Loomio user, just watch and follow up on your notifications.
 
-TODO: link to @mention section and notficaitions section of threads page.
+TODO: link to @mention section and notifications section of threads page.
 
 ## Search
 The search field appears when you click on the magnifying glass in the top navigation bar. It will display threads containing your keyword(s), in context, comments or decisions.
