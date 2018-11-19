@@ -33,7 +33,7 @@ To have your account reactivated, [contact us](https://loomio.org/contact "opens
 Deactivated groups can only be restored by a member of the Loomio team. [Contact us](https://loomio.org/contact "opens in new tab") to reactivate your group.
 
 ## What if I have a feature to suggest?
-We also have an open Loomio Community sub-group dedicated to [Feature Ideas](https://www.loomio.org/g/GN7EFQTK/loomio-community-feature-ideas "opens in new tab"). You can contribute to discussions about new features there, or make suggest your own feature ideas.
+We also have an open Loomio Community sub-group dedicated to [Feature Ideas](https://www.loomio.org/g/GN7EFQTK/loomio-community-feature-ideas "opens in new tab"). You can contribute to discussions about new features there, or suggest your own feature ideas.
 
 ## My question is not here
 If you have any questions or issues that are not answered through this Help Manual, please [contact us](https://www.loomio.org/contact) and we'll do our best to answer your questions.
