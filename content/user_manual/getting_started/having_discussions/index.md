@@ -7,7 +7,7 @@ menu:
     parent: getting_started
 ---
 
-_Facilitation_ means “to make easier; help forward”. Discussions on Loomio always work best when there is a clearly identified _facilitator_, someone who's role is to help the discussion move forward. There are a lot of things you can do to help your group have productive discussions — and you don't have to be a pro, in fact, anyone in a group can take little acts of facilitation.
+_Facilitation_ means “to make easier; help forward”. Discussions on Loomio always work best when there is a clearly identified _facilitator_, someone whose role is to help the discussion move forward. There are a lot of things you can do to help your group have productive discussions — and you don't have to be a pro - in fact, anyone in a group can make little acts of facilitation.
 
 ## Keep the topic concise
 
@@ -17,7 +17,7 @@ Making the thread title and context clear and engaging is the best way to ensure
 - Over what time frame will the discussion take place?
 - Will a decision be made within the thread?
 
-As the person who's started the thread people will be expecting you to host the discussion and keep things on track as it progresses.
+As the person who started the thread, people will be expecting you to host the discussion and keep things on track as it progresses.
 
 ## Maintain a safe environment
 
@@ -51,7 +51,7 @@ When you start a discussion, you can choose to select all members of a group, or
 
 **Mentioning**
 
-A direct way of asking for someone's attention. Use the `@` symbol and select the person's name. It's often expected that you respond when someone _mentions_ you.
+A direct way of asking for someone's attention. Use the `@` symbol and select the person's name. It's generally expected that you will respond when someone _mentions_ you.
 
 **Start a decision**
 
@@ -67,7 +67,7 @@ If someone's missing, invite them!
 
 Bring group members into a specific discussion by mentioning them: type “@” followed by their name. Try to notice people who have not participated and invite their input.
 
-High quality decisions come from gathering the right inputs. Are there other people the decision effects, who have not shared an opinion? Are there experts in the field that you could bring into the room?
+High quality decisions come from gathering the right inputs. Are there other people the decision affects, who have not shared an opinion? Are there experts in the field that you could bring into the room?
 
 Remember to look out for those people who are usually quiet. Don't just call them out, but consider how best to bring their perspective in, and why they might be hanging back.
 
@@ -95,7 +95,7 @@ If a complex discussion is raised, think about breaking it down into multiple th
 
 **Subgroups**
 
-If you have an area of collaboration requiring many threads and ongoing collaboration, but it only affects certain people, you can create a [subgroup](../../groups/settings/#create-sub-groups). For example, offices in different geogrpahical locations, teams working on different projects, or groups with a specific mandate like a governance board.
+If you have an area of collaboration requiring many threads and ongoing collaboration, but it only affects certain people, you can create a [subgroup](../../groups/settings/#create-sub-groups). For example, offices in different geographical locations, teams working on different projects, or groups with a specific mandate like a governance board.
 
 ## Going in-depth on Facilitation
 
