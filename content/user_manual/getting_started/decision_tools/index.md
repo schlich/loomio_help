@@ -11,10 +11,10 @@ menu:
 
 Loomio does not make decisions for you. Rather, the tool is designed to:
 
-* communicate what decision is being made;
-* make it easy to participate;
-* highlight agreement and surface disagreement;
-* build shared understanding;
+* communicate what decision is being made
+* make it easy to participate
+* highlight agreement and surface disagreement
+* build shared understanding
 * and keep people informed of progress.
 
 It's up to each group to decide how to interpret the results. For instance, [here's the decision-making protocol for the Enspiral community](https://handbook.enspiral.com/agreements/decisions.html). They have defined specific criteria for three different types of decision, e.g. how long the decision must be open for input, and what percentage of the group must participate to make a binding decision.
@@ -28,7 +28,7 @@ Loomio provides a range of tools to support your group decision-making. You can 
 3. People can change their minds as understanding develops
 4. A reminder is sent out the day before closing
 5. The poll closes, and everyone is informed of the results
-6. The author sets an outcome, notifying everyone of what will happen next
+6. The author sets an outcome, notifying everyone of what will happen next.
 
 ## Time poll
 
@@ -59,7 +59,7 @@ Examples:
 * I've checked my contact details are correct
 * I've read the document and left my feedback
 * I'm coming to the event
-* I'll join the working group
+* I'll join the working group.
 
 A benefit of Check is that it automatically notifies those people who forget to participate, giving people a little encouragement to get the job done.
 
@@ -108,7 +108,7 @@ Everyone gets a number of dots to allocate against a set of options to represent
 
 Examples:
 
-* You're given $100 to spend on the business, how would you spend it?
+* You're given $100 to spend on the business; how would you spend it?
 
 See [dotmocracy.org](http://dotmocracy.org/) for more tips and resources about this voting method.
 
@@ -118,13 +118,13 @@ _Rank options in the order of preference._
 
 ![](ranked-choice.png)
 
-Offer a series of options for people to vote in their preferred order. You can choose the number of votes people can give and rank. This decision-making type allows people to express their opinion in more detail than traditional polls.
+Offers a series of options for people to vote in their preferred order. You can choose the number of votes people can give and rank. This decision-making type allows people to express their opinion in more detail than traditional polls.
 
-Ranked choice particularly useful when you have a large number of options or an election setting, where you are concerned with two somewhat similar options 'stealing' votes from one another, resulting in a less popular option gaining the plurality.
+Ranked choice is particularly useful when you have a large number of options or an election setting, where you are concerned with two somewhat similar options 'stealing' votes from one another, resulting in a less popular option gaining the plurality.
 
 Examples:
 
-* What would you like to eat in the company summer party?
+* What would you like to eat at the company summer party?
 * Who should be our next deputy mayor?
 
 ## Proposal
