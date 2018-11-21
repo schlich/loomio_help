@@ -137,7 +137,7 @@ Examples:
 * What would you like to eat at the company summer party?
 * Who should be our next deputy mayor?
 
-[Try our live demo of the poll here](https://www.loomio.org/p/example/ranked_choice)
+[Try our live demo of the ranked choice here](https://www.loomio.org/p/example/ranked_choice)
 
 ## Proposal
 
