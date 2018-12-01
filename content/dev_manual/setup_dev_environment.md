@@ -80,7 +80,7 @@ nvm alias default 8.12.0
 ## Install two packages required for this project
 
 ```
-$ npm install -g yarn gulp
+$ npm install -g gulp
 ```
 
 ## Fork and clone the Loomio git repo
@@ -100,7 +100,7 @@ From you freshly checked out Loomio repo:
 
 ```
 bundle install
-cd client; yarn && cd ..
+cd client; npm install && cd ..
 ```
 
 ## Create database.yml
@@ -144,7 +144,7 @@ Gulp stuff (run from the client folder)
 
 - `gulp nightwatch`: Run the automated frontend tests
 - `npm rebuild node-sass` has been known to be very useful
-- if you ever get into problems with node libraries: `rm -rf node_modules && yarn`
+- if you ever get into problems with node libraries: `rm -rf node_modules && npm install`
 
 ### Having trouble?
 Let us know in the [product development](https://www.loomio.org/g/GN7EFQTK/loomio-community-product-development) group on Loomio.
