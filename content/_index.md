@@ -8,6 +8,10 @@ title: Loomio Help
 
 [Loomio](https://www.loomio.org) is an online tool used by thousands of groups around the world to increase transparency and inclusion, decrease meetings and emails, and make better decisions together.
 
+<div style="border: 2px solid #FFA726; border-radius: 8px; padding: 1em">
+<b>Learn Loomio from our friendly experts!</b> Join a free <a href="https://www.eventbrite.com/e/loomio-101-webinar-registration-52826513524">Loomio 101 webinar</a>.</div>
+
+
 ## [Loomio User Manual](user_manual)
 Start here to learn how to use Loomio and introduce it to your group.
 

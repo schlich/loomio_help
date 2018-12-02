@@ -8,6 +8,7 @@ params:
   repoName: loomio/loomio_help
   matomoId: 1
   useCategories: false
+  canEdit: true
 languages:
   en:
     languageName: English
