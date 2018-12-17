@@ -87,40 +87,51 @@ This means that our user accounts are no weaker than the user's email provider.
 Please see the Loomio User Manual for more information about user sign-in.
 
 ## Inactive sessions
-Q: What is the timeout period for inactive sessions?
+
+_Q: What is the timeout period for inactive sessions?_
+
 A: We don't have a session timeout. If an organisation has a timeout requirement, we recommend this is implemented at the computer session level rather than application session.
-Notifiable incidents
-Q: How are customers informed of security breaches (should they occur)?
+
+## Notifiable incidents
+
+_Q: How are customers informed of security breaches (should they occur)?_
+
 A: By email. We notify customers as soon as we can, and no later than 72 hours from when we become aware of a security breach.
-Personnel screening
-Q: Do privileged users (administrators of the system) undergo any form of security clearance prior to being granted access?
-A: Loomio staff and cooperative members may, in the course of their work, have access to customer data including personal data as described in Loomio’s Privacy Policy.
+
+## Personnel screening
+
+_Q: Do privileged users (administrators of the system) undergo any form of security clearance prior to being granted access?_
+
+A: Loomio staff and cooperative members may, in the course of their work, have access to customer data including personal data as described in Loomio’s [Privacy Policy](https://www.loomio.org/privacy).
 
 Employee and contractor agreements for people working at Loomio include confidentiality clauses to protect Loomio and customer confidential information.  We treat all customer information and data as confidential, except for situations where a customer has explicitly made the information publicly accessible.
 
 Access to the database, where discussion and decision data is held, is tightly controlled and protected internally within Loomio under the following restrictions:
-Loomio’s internal security principle is that customer data is only accessed after permission has been granted by the customer, or the customer has requested help with an issue.
-When it is necessary to maintain the system.
-Loomio workers with access to the customer database must be highly experienced software developers, compliant with Loomio's privacy policy, and in most cases they will be a co-owner member of Loomio Cooperative with associated responsibilities.
-Access to the Loomio database is available to no more than five Loomio staff members,  controlled by Loomio Cooperative members who have been working in the development and maintenance of Loomio for more than four years.
-As a registered worker cooperative, Loomio is collectively owned by its members, who are all equal shareholders in the Cooperative and hold the responsibilities of business co-owners. Details and responsibilities of membership are outlined in the Loomio handbook.
-You can read more about Loomio’s policy for data security, integrity and access in our privacy policy. We specifically draw your attention to the following:
- 
-Loomio will not sell or rent any information you share with us. Access to your content and personally identifiable information is tightly controlled internally. Loomio takes all reasonable steps to protect your content from loss, misuse and unauthorized access, disclosure, alteration and destruction.
- 
-Data Encryption
-Q: Is Loomio data encrypted?
 
+- Loomio’s internal security principle is that customer data is only accessed after permission has been granted by the customer, or the customer has requested help with an issue.
+- When it is necessary to maintain the system.
+- Loomio workers with access to the customer database must be highly experienced software developers, compliant with Loomio's privacy policy, and in most cases they will be a co-owner member of Loomio Cooperative with associated responsibilities.
+- Access to the Loomio database is available to no more than five Loomio staff members,  controlled by Loomio Cooperative members who have been working in the development and maintenance of Loomio for more than four years.
+
+As a registered worker cooperative, Loomio is collectively owned by its members, who are all equal shareholders in the Cooperative and hold the responsibilities of business co-owners. Details and responsibilities of membership are outlined in the [Loomio handbook](https://loomio.coop/).
+
+You can read more about Loomio’s policy for data security, integrity and access in our [privacy policy](https://www.loomio.org/privacy). We specifically draw your attention to the following:
+ 
+_Loomio will not sell or rent any information you share with us. Access to your content and personally identifiable information is tightly controlled internally. Loomio takes all reasonable steps to protect your content from loss, misuse and unauthorized access, disclosure, alteration and destruction._
+ 
+## Data Encryption
+
+_Q: Is Loomio data encrypted?_
 
 A. We use TLS (Transport Layer Security) encryption for data sent between Loomio and users where they are using a securely hosted email service.
 
-You can read more about Loomio’s policy for data security, integrity and access in our privacy policy. We specifically draw your attention to the following:
+You can read more about Loomio’s policy for data security, integrity and access in our [privacy policy](https://www.loomio.org/privacy). We specifically draw your attention to the following:
  
-'Content entered into the platform is distributed to the appropriate members of your groups via secure connections where possible and sent via email in the normal course of operation. Your content is only as secure as the personal devices, email services, ISPs, and actions of the members of your group.'
+_Content entered into the platform is distributed to the appropriate members of your groups via secure connections where possible and sent via email in the normal course of operation. Your content is only as secure as the personal devices, email services, ISPs, and actions of the members of your group._
 
-Accessibility
+## Accessibility
 Loomio complies with the New Zealand Web Accessibility Standard, which requires support of the Web Content Accessibility Guideline (WCAG) 2.0 conformance levels A and AA. Loomio also conforms with much of Level AAA.  
 
-Loomio is committed to accessibility. We work with recognised Canada-based web accessibility consultant David Best, and we regularly test core functions of the software for accessibility.  
+Loomio is committed to accessibility. We work with recognised Canada-based web accessibility consultant [David Best](http://www.davebest.info/), and we regularly test core functions of the software for accessibility.  
 
-“Loomio has done a great job with integrating the WCAG standards. However, screen reader user feedback is critical in measuring the usability of Loomio. The web pages are designed with a common look and feel layout of Regions and Heading hierarchy for ease of keyboard navigation. I believe Loomio should be compatible with most screen readers, and it was primarily tested with the JAWS screen reader. Please encourage your screen reader users to help improve Loomio with their feedback.” David Best.
+“Loomio has done a great job with integrating the WCAG standards. However, screen reader user feedback is critical in measuring the usability of Loomio. The web pages are designed with a common look and feel layout of Regions and Heading hierarchy for ease of keyboard navigation. I believe Loomio should be compatible with most screen readers, and it was primarily tested with the JAWS screen reader. Please encourage your screen reader users to help improve Loomio with their feedback.” **David Best**
