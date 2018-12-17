@@ -80,13 +80,13 @@ All changes to our production system are logged within Heroku.
 ## Loomio’s password policy
 _Q: What are the requirements for a Loomio registration password? E.g minimum length and complexity._
 
-A: The minimum length required for Loomio’s platform is 8 characters. We require that passwords are not on the list of the 10,000 most commonly used passwords.
+A: The minimum length required for Loomio’s platform is 8 characters. We require that passwords are not on the list of the [10,000 most commonly used passwords](https://en.wikipedia.org/wiki/Wikipedia:10,000_most_common_passwords).
 
 We don't use passwords by default; users generally login via link sent to their email address. Users who specifically request to use passwords will have them enabled on their accounts.
 
 This means that our user accounts are no weaker than the user's email provider.
 
-Please see the Loomio User Manual for more information about user sign-in.
+Please see the [Loomio User Manual](https://help.loomio.org/en/user_manual/users/sign_in/) for more information about user sign-in.
 
 ## Inactive sessions
 
