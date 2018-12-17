@@ -66,7 +66,7 @@ Loomio software and service has been assessed and approved by:
 ## Change Control
 _Q: The Loomio service is a shared platform and an open source application - does the organisation maintain a change control Policy with the maintenance of an audit trail of changes to the production environment?_
 
-A: Loomio software is open source, owned and maintained by Loomio Cooperative limited.
+A: Loomio software is open source, owned and maintained by Loomio Cooperative Limited.
 
 We review and test all contributions to the software ourselves before anything is accepted into the final build. In practice more than 99% of the software has been developed by Loomio Cooperative. Open source commits tend to be minor and few.
 
