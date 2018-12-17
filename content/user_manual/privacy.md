@@ -2,6 +2,8 @@
 title: Privacy and Security Information
 ---
 
+# Privacy
+
 ## Group privacy
 As a group coordinator, you can customise your privacy and access permissions to suit what your group needs. See the [Loomio User Manual](https://help.loomio.org/en/user_manual/groups/settings/) for more information about Group Settings.
 
@@ -11,7 +13,7 @@ Loomio’s [Privacy policy](https://www.loomio.org/privacy) outlines how we hand
 ## GDPR Compliance
 Loomio complies with European Union General Data Protection Regulations (GDPR). Our [Compliance statement](https://www.loomio.org/gdpr) outlines how you can exercise your rights under the GDPR.
 
-## Security
+# Security
 The Loomio software is available for inspection and regularly subject to third party security scan. Please contact us if you’d like to run a PEN test or security scan.
 
 # Software Information
