@@ -1,5 +1,9 @@
 ---
 title: Privacy and Security Information
+menu:
+  main:
+    name: Privacy & Security
+    parent: user_manual
 ---
 
 # Privacy
@@ -56,6 +60,7 @@ New Zealand Cloud Security and Compliance information is available [here](https:
 # Third Party Security Assessment and Approval
 
 Loomio software and service has been assessed and approved by:
+
 - eHealth Systems, SA Health, Government of South Australia - Security Scan (by IBM Security AppScan Standard 9.0.3, December 2018)
 - New Zealand Government Department of Internal Affairs - Context security assessment
 - New Zealand Government Ministry of Social Development - Cloud Computing User Assessment
