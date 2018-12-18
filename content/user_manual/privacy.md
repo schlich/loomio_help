@@ -11,7 +11,7 @@ As a group coordinator, you can customise your privacy and access permissions to
 Loomio’s [Privacy policy](https://www.loomio.org/privacy) outlines how we handle personal data. We respect personal privacy and will never sell your data to third parties, nor put advertising into Loomio. We only transfer personal information to third parties where absolutely necessary.
 
 ## GDPR Compliance
-Loomio complies with European Union General Data Protection Regulations (GDPR). Our [Compliance statement](https://www.loomio.org/gdpr) outlines how you can exercise your rights under the GDPR.
+Loomio complies with European Union General Data Protection Regulations (GDPR). Our [compliance statement](https://www.loomio.org/gdpr) outlines how you can exercise your rights under the GDPR.
 
 # Security
 The Loomio software is available for inspection and regularly subject to third party security scan. Please contact us if you’d like to run a PEN test or security scan.
