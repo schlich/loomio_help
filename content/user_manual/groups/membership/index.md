@@ -48,7 +48,9 @@ You will find the "Group members" management panel in the right column of your g
 ## Coordinators
 Also known as "Admin" status. Group coordinators can add and remove members, grant and remove coordinator permissions and modify group settings.
 
-You can grant or remove coordinator permission **Group Members** panel, which is on the Group page.
+You can grant or remove coordinator permission **Group Members** panel, which is on the top right-hand side of your Group page.
+
+Click on the three dots next to the person you want to make a coordinator, and then choose 'Make Coordinator'. You will now see that the person's avatar has an orange ring around it. Everyone with an orange ring is a coordinator.
 
 We recommend that you share the coordinator permission with everyone who is trusted to look after the group.
 
