@@ -35,7 +35,7 @@ TODO: link to @mention section and notifications section of threads page.
 ## Search
 The search field appears when you click on the magnifying glass in the top navigation bar. It will display threads containing your keyword(s), in context, comments or decisions.
 
-You can find a thread by entering key words from it's title or context into the search field.
+You can find a thread by entering key words from its title or context into the search field.
 
 ## User menu
 The user menu is where you can access your user profile page, change your email preferences, find a link to this help manual, and sign out.
