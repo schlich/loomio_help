@@ -7,7 +7,7 @@ menu:
     parent: 'groups'
 ---
 
-# Export
+## Export
 
 Exporting your group data is easy!
 
@@ -17,7 +17,7 @@ Open the _Options_ menu on the group page and select _Export Group Data_.
 
 You'll shortly receive an email with a link to downloading the .json file.
 
-# Import
+## Import
 
 If you are hosting your own Loomio deployment, and would like to import your exported data:
 
