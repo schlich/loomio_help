@@ -68,7 +68,9 @@ The **Unread Threads** page shows all threads and proposals that have new conten
 The **Muted** page displays all threads you have previously muted. It can be accessed via the **Muted** option in the sidebar. Muted threads do not appear on your **Recent** or **Unread** pages.  You can mute a thread by hovering over the thread preview on the group page, **Recent Threads** page, or **Unread Threads** page, and using the **Mute** button.
 
 ## Viewing your groups
-All the groups you belong to are listed in the sidebar. If you are only a member of only one Loomio group, the home page for this group will be your landing page when you sign into Loomio. If you have multiple groups you can easily navigate between them from using the sidebar.
+All the groups you belong to are listed in the sidebar, on the left hand side. If you are only a member of one Loomio group, the home page for this group will be your landing page when you sign into Loomio. If you have multiple groups you can easily navigate between them from using the sidebar.
+
+If you belong to a Gold or Pro group, then you will also see all related sub-groups that you are a part of, listed in lighter grey text, under the main group.
 
 ## Exploring public groups
 You can explore, and request membership to, public Loomio groups by visiting the **Explore** page. The **Explore** page is accessed via the **Explore public groups** option in the sidebar.
