@@ -6,6 +6,13 @@ menu:
     parent: user_manual
 ---
 
+<!-- - fully gdpr compliant.
+- no external trackers
+- export all your data, anytime.
+- data belongs to the group and is shared history. we do no delete your comment and vote data when you go. that is only available to your group admins.
+- our employee security policies
+- hosting in EU available. -->
+
 ## Privacy
 
 ### Group privacy
@@ -37,16 +44,16 @@ Loomio software is constantly evolving. Software updates include release notes n
 
 ### Loomio.org
 
-#### Hosted service provider 
+#### Hosted service provider
 Heroku is a cloud application platform used by organisations of all sizes to deploy and operate applications throughout the world. Heroku’s platform provides infrastructure management, scaling, and security.
 
-Heroku applies security best practices and manages platform security, protecting customers from threats. Heroku applies security controls at every layer from physical to application, isolating applications and data, and rapidly deploys security updates without customer interaction or service interruption. 
+Heroku applies security best practices and manages platform security, protecting customers from threats. Heroku applies security controls at every layer from physical to application, isolating applications and data, and rapidly deploys security updates without customer interaction or service interruption.
 
 More information can be found at [Heroku’s security policy](https://www.heroku.com/policy/security).
 
 Heroku utilises ISO 27001 and FISMA certified data centres managed by Amazon. Information about security at Amazon data centres is available [here](https://aws.amazon.com/security/).
 
-#### Backup data and Recovery 
+#### Backup data and Recovery
 Loomio software and data recovery are managed by Heroku. The software and data is automatically backed up as part of the deployment process on secure, access controlled, and redundant storage.  Heroku use these backups to deploy the Loomio software and data across the platform and automatically bring the application back online in the event of an outage.
 
 More information can be found at [Heroku’s security policy](https://www.heroku.com/policy/security).
@@ -123,9 +130,9 @@ Access to the database, where discussion and decision data is held, is tightly c
 As a registered worker cooperative, Loomio is collectively owned by its members, who are all equal shareholders in the Cooperative and hold the responsibilities of business co-owners. Details and responsibilities of membership are outlined in the [Loomio handbook](https://loomio.coop/).
 
 You can read more about Loomio’s policy for data security, integrity and access in our [privacy policy](https://www.loomio.org/privacy). We specifically draw your attention to the following:
- 
+
 _Loomio will not sell or rent any information you share with us. Access to your content and personally identifiable information is tightly controlled internally. Loomio takes all reasonable steps to protect your content from loss, misuse and unauthorized access, disclosure, alteration and destruction._
- 
+
 ### Data Encryption
 
 _Q: Is Loomio data encrypted?_
@@ -133,7 +140,7 @@ _Q: Is Loomio data encrypted?_
 A. We use TLS (Transport Layer Security) encryption for data sent between Loomio and users where they are using a securely hosted email service.
 
 You can read more about Loomio’s policy for data security, integrity and access in our [privacy policy](https://www.loomio.org/privacy). We specifically draw your attention to the following:
- 
+
 _Content entered into the platform is distributed to the appropriate members of your groups via secure connections where possible and sent via email in the normal course of operation. Your content is only as secure as the personal devices, email services, ISPs, and actions of the members of your group._
 
 ### Accessibility
