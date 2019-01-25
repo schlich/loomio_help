@@ -6,30 +6,22 @@ Our roadmap is guided by the customer research and direction decisions we've mad
 
 The timeframes here are estimates, not promises.
 
-## 2019-01 Add Microsoft Teams support, refine Slack integration
+## 2019-01 Add Microsoft Teams support
 - drop interactive chat commands for now. IE: no /loomio poll commands
 - subscribe any chat channel to a group's activity
-- publish activity updates from the group: new threads, comments, polls, votes, decisions.
+- ability to edit which events are published to the team via config modal
+- Follow up with Facebook and Telegram integrations shortly after this
 
-## 2019-02 loomio.eu beta launch
+## 2019-02 loomio.eu (beta) launch
 - we often get customers asking for hosting based in EU
 - similar to loomio.org, but based on EU hosted servers
-- private beta period
-- charged in Euros
+- private beta period, customers who request are invited to the service
 
-## 2019-02 Launch new marketing website
-- targeting Governance, Org management, working groups, Engagement
-- updated pricing and trial restrictions
-- use case specific pages for governance, org management, engagement
+## 2019-02 Launch new website
+- targeting Governance, Organization, Engagement
+- free trial is limited to 5 threads
+- plans based around member size: 50, 500, 5000
 - also releasing new onboarding help: demo videos, help docs, webinars, welcome email
-- move about page to help.loomio.org
-- updated data privacy/security page:
-  - fully gdpr compliant.
-  - no external trackers
-  - export all your data, anytime.
-  - data belongs to the group and is shared history. we do no delete your comment and vote data when you go. that is only available to your group admins.
-  - our employee security policies
-  - hosting in EU available.
 
 ## 2019-03 Migration from AngularJS to Vue completed
 - Prepares us for mobile & desktop apps, improves performance and brings better ecosystem of libraries and developers.
@@ -42,13 +34,19 @@ The timeframes here are estimates, not promises.
 ## 2019-03 Outcome renamed to Decision.
 - Enable 'decision' in a thread without a poll
 - Group page gets tabs across top: Threads, Polls, Decisions, Documents, Members
+![](group-page-with-tabs.png)
 
 ## 2019-04 Single column thread page
 - Display polls/proposals within the main column rather than on the right.
 - Introduce "timeline view" for navigation of thread. This replaces "previous decisions" (on desktop timeline is rightbar, on mobile it's a dropdown.)
 - Move new poll, decision stuff into add comment card at bottom of thread.
+![comment proposal poll decision](thread_actions_panel.png)
+- title bar changes to thread title on scroll.
+- default to chronological view but admins can change that per thread.
 
 ## 2019-04 Poll and thread templates
+TODO: explain how these might be used.
+
 option to choose from template (or blank) when starting a thread. template includes thread context which you can modify to make your own.
 
 - allow proposals/polls to be defined for specific scenarios. eg: Advice, Consent
@@ -105,6 +103,14 @@ option to choose from template (or blank) when starting a thread. template inclu
 
 ---
 
+implement https://www.twilio.com/blog/2018/03/better-passwords-in-ruby-applications-pwned-passwords-api.html
+
+user setting to choose between weekly and daily summary emails
+
+fetch draft when loading thread page so it does not overwrite exiting text when you start writing.
+
+when people post links, expand them out on the comment or whatever.
+
 The following items are things we want to do but have not prioritised or estimated yet.
 
 - thread refinements
@@ -127,6 +133,14 @@ Documents are something groups use with decision making naturally, have native c
 - intro carousel for new users (actually everyone, when we release these updates)
 
 ## delegated votes/liquid democracy
+each membership has a 'weight' column, which defaults to 1. for proposal polls, the stance_choice.score is the weight of the membership at the time.
+
+membership weight is either assigned manually or is based on the number of representations assigned to a particular member in a group.
+
+we need a screen so that members can select who they delegate their vote to.
+
+---
+
 select delegate or representative.. ability for members to select someone to carry their voting power, you can do it for a group or just a thread.
 
 governance, management, engagement and organising
