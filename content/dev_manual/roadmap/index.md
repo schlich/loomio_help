@@ -48,7 +48,7 @@ The timeframes here are estimates, not promises.
 Proposal, Poll, Check, etc are all 'polls' with different settings. We're going to enable users to create their own "process templates" and save them within their group. So you can define what process your group uses to make a decision and save it so anyone can hold a process for a particular decision or question.
 
 ![](markdown-img-paste-20190129081110378.png)
-![](markdown-img-paste-20190129081132133.png)
+![](markdown-img-paste-20190129082239413.png)
 ![](markdown-img-paste-20190129081151382.png)
 ![](markdown-img-paste-2019012908120591.png)
 
