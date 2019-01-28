@@ -17,7 +17,7 @@ The timeframes here are estimates, not promises.
 - similar to loomio.org, but based on EU hosted servers
 - private beta period, customers who request are invited to the service
 
-## 2019-02 Launch new website
+## 2019-02 Launch new marketing website
 - targeting Governance, Organization, Engagement
 - free trial is limited to 5 threads
 - plans based around member size: 50, 500, 5000
@@ -27,7 +27,6 @@ The timeframes here are estimates, not promises.
 - Prepares us for mobile & desktop apps, improves performance and brings better ecosystem of libraries and developers.
 - Work began in 2018.
 - Big job, converting all frontend components from AngularJS to Vue2 and replacing angular-material with vuetify.
-- Two developers brought on to do this work.
 - adopt WYSIWYG text editor [tiptap](https://tiptap.scrumpy.io/) including support for mentions, file attachments
 - No other significant changes to the UI/UX
 
@@ -45,11 +44,15 @@ The timeframes here are estimates, not promises.
 - default to chronological view but admins can change that per thread.
 
 ## 2019-04 Poll and thread templates
-TODO: explain how these might be used.
 
-option to choose from template (or blank) when starting a thread. template includes thread context which you can modify to make your own.
+Proposal, Poll, Check, etc are all 'polls' with different settings. We're going to enable users to create their own "process templates" and save them within their group. So you can define what process your group uses to make a decision and save it so anyone can hold a process for a particular decision or question.
 
-- allow proposals/polls to be defined for specific scenarios. eg: Advice, Consent
+![](markdown-img-paste-20190129081110378.png)
+![](markdown-img-paste-20190129081132133.png)
+![](markdown-img-paste-20190129081151382.png)
+![](markdown-img-paste-2019012908120591.png)
+
+<!-- - allow grioto be defined for specific scenarios. eg: Advice, Consent
 - choose or edit proposal templates. then proposal is just a few fields.
   save templates for particlar decisions you regularly make.
   template editor allows you to
@@ -73,9 +76,19 @@ option to choose from template (or blank) when starting a thread. template inclu
     the templates come with guides that help you run the kind of process.
     you can share templates if you wish.
 
-    It seems like we should consider making proposal templates editable? Then you could create some templates and offer them when people go to start a proposal, they could include guidance via an associated help page.
+    It seems like we should consider making proposal templates editable? Then you could create some templates and offer them when people go to start a proposal, they could include guidance via an associated help page. -->
 
-## 2019-05 wall/feed view of dashboard, group pages
+## Realtime Document editing, Improved document management and integration
+rewritten UI will bring WYSIWYG including
+  - ability to drag and drop images etc into comments, other text areas.
+  - potential for realtime collaborative editing
+  - rich formatting including lists, tables, checkboxes etc
+
+So we're considering implementing a wiki-like document editing experience, so each group has a editable set of pages which you can collaborate upon within Loomio.
+
+Also expect: improved group attachments page, simplifying and improving the search and integration of attachments (PDF's, google docs, etc)
+
+## 2019-06 wall/feed view of dashboard, group pages
 - view multiple threads on the same page, for mobile reading, better nav experience
 - change current index views to be single line with columns
 
