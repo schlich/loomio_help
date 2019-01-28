@@ -115,7 +115,7 @@ Also expect: improved group attachments page, simplifying and improving the sear
 - list all the integrations and services your group uses, eg trello, zoom, google drive. and loomio will provide helpful integrations with those services including url redirects
 
 ---
-
+<!--
 implement https://www.twilio.com/blog/2018/03/better-passwords-in-ruby-applications-pwned-passwords-api.html
 
 user setting to choose between weekly and daily summary emails
@@ -239,4 +239,4 @@ loomio interface based on google news
 - notification frequency to decide how often: immediate or daily or weekly
 - show when people last viewed the thread somehow
 - comment, propose
-- make email feel native with group email addresses
+- make email feel native with group email addresses -->
