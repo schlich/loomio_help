@@ -36,7 +36,7 @@ First off, we’re going to create a local plugin, and initialize it with a git 
 
 First, create a new folder in the `/plugins` folder with the name of your plugin:
 ```
-mkdir plugins/loomio_tagging && cd plugins/loomio_tags
+mkdir plugins/loomio_tags && cd plugins/loomio_tags
 ```
 
 Then, update the `.gitignore` file to let it know you want to see your new plugin:
